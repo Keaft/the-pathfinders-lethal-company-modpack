@@ -1,6 +1,6 @@
 {
     "name": "The_Pathfinders_Modpack",
-    "version_number": "24.2.9.1",
+    "version_number": "24.2.901",
     "website_url": "https://github.com/Keaft/the-pathfinders-lethal-company-modpack",
     "description": "A modpack that tries to stay true to the original feel with some minor content additions and quality of life adjustments.",
     "dependencies": [
@@ -13,7 +13,7 @@
         "vasanex-ItemQuickSwitch-1.1.0",
         "anormaltwig-LateCompany-1.0.11",
         "malco-Lategame_Upgrades-3.1.1",
-        "Pooble-LCBetterSaves-1.7.3"
+        "Pooble-LCBetterSaves-1.7.3",
         "Evaisa-LethalLib-0.14.2",
         "Evaisa-LethalThings-0.9.4",
         "FlipMods-LetMeLookDown-1.0.1",
@@ -24,6 +24,6 @@
         "Hexnet111-SuitSaver-1.1.4",
         "NotAtomicBomb-TerminalApi-1.5.1",
         "NotAtomicBomb-Terminal_Clock-1.0.5",
-        "Blorb-WeatherMultipliers-1.1.0",
+        "Blorb-WeatherMultipliers-1.1.0"
     ]
 }

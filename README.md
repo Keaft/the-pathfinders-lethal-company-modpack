@@ -5,8 +5,10 @@
  
  If you have saves that you wish to maintain, take a backup before installing this modpack.
  
+ I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
+ 
 ## Changelog
-### 24.2.9.1
+### 24.2.901
 - Removed Custom Boombox Music mod.
 - Alphabetized the mod list by mod name.
 - Updated readme.
