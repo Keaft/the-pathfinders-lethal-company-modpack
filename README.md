@@ -9,6 +9,13 @@
  
 ## Changelog
 ### 24.2.10
+#### Mods Added:
+- ScrollInverter to dispell the confusion from other games in the first person genre.
+- Corporate Restructure for QoL information displayed in the ship.
+- LethalConfig for easier configuration changes for the future.
+- HideChat to fade chat out after a while increasing immersion.
+
+#### Configurations:
 - Removed Utility belt. 4 items max! Or at least until the company decides to increase it :D
 - Removed Remote Radar.
 - Fatalities sign now costs 20. It should be company standard issue, bet you know how they are some times...
