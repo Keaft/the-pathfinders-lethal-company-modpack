@@ -8,6 +8,12 @@
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
 ## Changelog
+### 24.2.10
+- Removed Utility belt. 4 items max! Or at least until the company decides to increase it :D
+- Removed Remote Radar.
+- Fatalities sign now costs 20. It should be company standard issue, bet you know how they are some times...
+- Dart Board is cheaper. It's not a pizza party but...
+
 ### 24.2.901
 - Removed Custom Boombox Music mod.
 - Alphabetized the mod list by mod name.
