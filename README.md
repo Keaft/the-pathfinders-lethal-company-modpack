@@ -14,6 +14,7 @@
 - Corporate Restructure for QoL information displayed in the ship.
 - LethalConfig for easier configuration changes for the future.
 - HideChat to fade chat out after a while increasing immersion.
+- DiscountAlert for a little message if there are discounts.
 
 #### Configurations:
 - Removed Utility belt. 4 items max! Or at least until the company decides to increase it :D
