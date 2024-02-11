@@ -8,7 +8,7 @@
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
 ## Changelog
-### 24.2.11
+### 24.2.1100
 #### Mods Added:
 - **HotbarPlus** to dispell the confusion from other games in the first person genre.
 - **Corporate Restructure** for QoL information displayed in the ship.
