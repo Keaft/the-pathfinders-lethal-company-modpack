@@ -8,19 +8,19 @@
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
 ## Changelog
-### 24.2.10
+### 24.2.11
 #### Mods Added:
-- ScrollInverter to dispell the confusion from other games in the first person genre.
-- Corporate Restructure for QoL information displayed in the ship.
-- LethalConfig for easier configuration changes for the future.
-- HideChat to fade chat out after a while increasing immersion.
-- DiscountAlert for a little message if there are discounts.
-- FastSwitchPlayerViewInRadar for tighter control over who you are viewing on the terminal monitor.
-- ItemDropCycler for easier item dropping. Will have to monitor if this gets to be obnoxious.
-- BetterSprayPaint to bring spray paint into focus as a useful tool by making it continuous and infinite.
-- EmployeeAssignments minor content addition allowing additional tasks to be performed to gain more scrap.
-- MoreMonsters as an administrative tool for balancing difficulty depending on party size.
-- AllwaysCanDance minor change to emotes allowing movement. Now you can point and ~~chew gum~~ point at the same time. Will need to monitor to see if it's obnoxious.
+- **ScrollInverter** to dispell the confusion from other games in the first person genre.
+- **Corporate Restructure** for QoL information displayed in the ship.
+- **LethalConfig** for easier configuration changes for the future.
+- **HideChat** to fade chat out after a while increasing immersion.
+- **DiscountAlert** for a little message if there are discounts.
+- **FastSwitchPlayerViewInRadar** for tighter control over who you are viewing on the terminal monitor.
+- **ItemDropCycler** for easier item dropping. Will have to monitor if this gets to be obnoxious.
+- **BetterSprayPaint** to bring spray paint into focus as a useful tool by making it continuous and infinite.
+- **EmployeeAssignments** minor content addition allowing additional tasks to be performed to gain more scrap.
+- **MoreMonsters** as an administrative tool for balancing difficulty depending on party size.
+- **AllwaysCanDance** minor change to emotes allowing movement. Now you can point and ~~chew gum~~ point at the same time! Will need to monitor to see if it's obnoxious.
 
 #### Configurations:
 - Removed Utility belt. 4 items max! Or at least until the company decides to increase it :D
