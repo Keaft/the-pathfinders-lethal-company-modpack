@@ -10,13 +10,12 @@
 ## Changelog
 ### 24.2.11
 #### Mods Added:
-- **ScrollInverter** to dispell the confusion from other games in the first person genre.
+- **HotbarPlus** to dispell the confusion from other games in the first person genre.
 - **Corporate Restructure** for QoL information displayed in the ship.
 - **LethalConfig** for easier configuration changes for the future.
 - **HideChat** to fade chat out after a while increasing immersion.
 - **DiscountAlert** for a little message if there are discounts.
 - **FastSwitchPlayerViewInRadar** for tighter control over who you are viewing on the terminal monitor.
-- **ItemDropCycler** for easier item dropping. Will have to monitor if this gets to be obnoxious.
 - **BetterSprayPaint** to bring spray paint into focus as a useful tool by making it continuous and infinite.
 - **EmployeeAssignments** minor content addition allowing additional tasks to be performed to gain more scrap.
 - **MoreMonsters** as an administrative tool for balancing difficulty depending on party size.
@@ -28,6 +27,10 @@
 - Removed Remote Radar.
 - Fatalities sign now costs 20. It should be company standard issue, but you know how they are some times...
 - Dart Board is cheaper. It's not a pizza party but...
+- Established configs to make sure ItemQuickSwitch and HotbarPlus play nicely.
+
+#### Known issue(s):
+- On startup **EmployeeAssignments** says it's out of date, but it's not. :D
 
 ### 24.2.901
 - Removed Custom Boombox Music mod.
