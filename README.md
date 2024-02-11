@@ -21,6 +21,7 @@
 - **EmployeeAssignments** minor content addition allowing additional tasks to be performed to gain more scrap.
 - **MoreMonsters** as an administrative tool for balancing difficulty depending on party size.
 - **AllwaysCanDance** minor change to emotes allowing movement. Now you can point and ~~chew gum~~ point at the same time! Will need to monitor to see if it's obnoxious.
+- **LethalCompany InputUtils** as a library for other mods to work.
 
 #### Configurations:
 - Removed Utility belt. 4 items max! Or at least until the company decides to increase it :D
