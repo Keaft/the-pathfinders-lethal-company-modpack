@@ -23,7 +23,7 @@
 - **HotbarPlus** now covered by AdvancedCompany.
 - **LateCompany** now covered by AdvancedCompany.
 - **MoreItems** now covered by AdvancedCompany.
-- **SuitSaver** now covered by AdvancedCompany.
+- **ItemQuickSwitch** now covered by AdvancedCompany.
 - **MoreMonsters** now covered by AdvancedCompany.
 
 #### Configurations:
