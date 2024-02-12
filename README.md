@@ -15,11 +15,11 @@
 - **EmoteWhileInMotion** in replacement of AllwaysCanDance to mitigate the inability to crouch while emoting.
 
 #### Mod(s) Removed:
+- **AllwaysCanDance** now covered by EmoteWhileInMotion.
 - **HotbarPlus** now covered by AdvancedCompany.
 - **LateCompany** now covered by AdvancedCompany.
 - **MoreItems** now covered by AdvancedCompany.
 - **SuitSaver** now covered by AdvancedCompany.
-- **AllwaysCanDance** now covered by EmoteWhileInMotion.
 
 #### Configurations:
 - Remove HotbarPlus configs.
