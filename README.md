@@ -12,7 +12,11 @@
 #### Mod(s) Added:
 - **IntroTweaks** skips the intro and various menu tweaks. Time is money! Get in there!
 - **AdvancedCompany** gives greater control over lobby as well as replacing several other mods!
-- **EmoteWhileInMotion** in replacement of AllwaysCanDance to mitigate the inability to crouch while emoting.
+- **EmoteWhileInMotion** in replacement of AllwaysCanDance to fix the inability to crouch while emoting.
+- **TooManySuits** adds pages to suits.
+- **5andwiches_Closet** adds suits and cosmetics.
+- **MoreMaterials** library for cosmetics.
+- **ItemDropCycler** restore the item drop cycling from the HotbarPlus removal.
 
 #### Mod(s) Removed:
 - **AllwaysCanDance** now covered by EmoteWhileInMotion.
@@ -20,10 +24,13 @@
 - **LateCompany** now covered by AdvancedCompany.
 - **MoreItems** now covered by AdvancedCompany.
 - **SuitSaver** now covered by AdvancedCompany.
+- **MoreMonsters** now covered by AdvancedCompany.
 
 #### Configurations:
 - Remove HotbarPlus configs.
 - Added a Pathfinders Standard preset for AdvancedCompany.
+- Disabled some suits.
+- Adjusted BetterItemScan to only show ship total while in the ship.
 
 ### 24.2.1100
 #### Mod(s) Added:
