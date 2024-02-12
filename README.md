@@ -12,12 +12,14 @@
 #### Mod(s) Added:
 - **IntroTweaks** skips the intro and various menu tweaks. Time is money! Get in there!
 - **AdvancedCompany** gives greater control over lobby as well as replacing several other mods!
+- **EmoteWhileInMotion** in replacement of AllwaysCanDance to mitigate the inability to crouch while emoting.
 
 #### Mod(s) Removed:
 - **HotbarPlus** now covered by AdvancedCompany.
 - **LateCompany** now covered by AdvancedCompany.
 - **MoreItems** now covered by AdvancedCompany.
 - **SuitSaver** now covered by AdvancedCompany.
+- **AllwaysCanDance** now covered by EmoteWhileInMotion.
 
 #### Configurations:
 - Remove HotbarPlus configs.
