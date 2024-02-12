@@ -8,8 +8,23 @@
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
 ## Changelog
+### 24.2.1200
+#### Mod(s) Added:
+- **IntroTweaks** skips the intro and various menue tweaks. Time is money! Get in there!
+- **AdvancedCompany** gives greater control over lobby as well as replacing several other mods!
+
+#### Mod(s) Removed:
+- **HotbarPlus** now coverd by AdvancedCompany.
+- **LateCompany** now coverd by AdvancedCompany.
+- **MoreItems** now coverd by AdvancedCompany.
+- **SuitSaver** now coverd by AdvancedCompany.
+
+#### Configurations:
+- Remove HotbarPlus configs.
+- Added a Pathfinders Standard preset for AdvancedCompany.
+
 ### 24.2.1100
-#### Mods Added:
+#### Mod(s) Added:
 - **HotbarPlus** to dispell the confusion from other games in the first person genre.
 - **Corporate Restructure** for QoL information displayed in the ship.
 - **LethalConfig** for easier configuration changes for the future.

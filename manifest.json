@@ -7,11 +7,9 @@
         "Blorb-WeatherMultipliers-1.1.0",
         "NotAtomicBomb-Terminal_Clock-1.0.5",
         "NotAtomicBomb-TerminalApi-1.5.1",
-        "Hexnet111-SuitSaver-1.1.4",
         "AllToasters-QuickRestart-1.2.0",
         "x753-More_Suits-1.4.1",
         "QuokkaCrew-MoreMonsters-1.2.1",
-        "Drakorle-MoreItems-1.0.2",
         "notnotnotswipez-MoreCompany-1.8.1",
         "FlipMods-LetMeLookDown-1.0.1",
         "Evaisa-LethalThings-0.9.4",
@@ -20,9 +18,8 @@
         "Rune580-LethalCompany_InputUtils-0.6.3",
         "Pooble-LCBetterSaves-1.7.3",
         "malco-Lategame_Upgrades-3.1.1",
-        "anormaltwig-LateCompany-1.0.11",
         "vasanex-ItemQuickSwitch-1.1.0",
-        "FlipMods-HotbarPlus-1.5.7",
+        "Owen3H-IntroTweaks-1.4.5",
         "Evaisa-HookGenPatcher-0.0.5",
         "Monkeytype-HideChat-1.0.0",
         "RickArg-Helmet_Cameras-2.1.5",
@@ -35,6 +32,7 @@
         "PopleZoo-BetterItemScan-3.0.1",
         "BepInEx-BepInExPack-5.4.2100",
         "Suskitech-AlwaysHearActiveWalkies-1.4.4",
-        "Graze-AllwaysCanDance-1.0.0"
+        "Graze-AllwaysCanDance-1.0.0",
+        "PotatoePet-AdvancedCompany-1.1.0"
     ]
 }
