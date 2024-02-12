@@ -11,7 +11,7 @@
     "deadline_length": 3,
     "start_credits": 60,
     "activate_portable_terminal": false,
-    "enable_cosmetics": false,
+    "enable_cosmetics": true,
     "enable_extend_deadline": false,
     "save_suits_after_death": true,
     "save_progress": true,
@@ -421,6 +421,83 @@
                 "override": false,
                 "rarity": 1
               }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -567,6 +644,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -707,6 +791,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -856,6 +947,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
               }
             }
           ]
@@ -1261,6 +1359,83 @@
                 "override": false,
                 "rarity": 2
               }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -1407,6 +1582,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -1547,6 +1729,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -1696,6 +1885,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
               }
             }
           ]
@@ -2101,6 +2297,83 @@
                 "override": false,
                 "rarity": 2
               }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -2247,6 +2520,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -2387,6 +2667,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -2536,6 +2823,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
               }
             }
           ]
@@ -2941,6 +3235,83 @@
                 "override": false,
                 "rarity": 1
               }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -3087,6 +3458,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -3227,6 +3605,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -3376,6 +3761,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
               }
             }
           ]
@@ -3781,6 +4173,83 @@
                 "override": false,
                 "rarity": 2
               }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -3927,6 +4396,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -4067,6 +4543,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -4216,6 +4699,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
               }
             }
           ]
@@ -4621,6 +5111,83 @@
                 "override": false,
                 "rarity": 1
               }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -4767,6 +5334,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -4907,6 +5481,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -5056,6 +5637,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
               }
             }
           ]
@@ -5461,6 +6049,83 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -5607,6 +6272,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -5747,6 +6419,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -5896,6 +6575,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
               }
             }
           ]
@@ -6301,6 +6987,83 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -6447,6 +7210,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -6587,6 +7357,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -6736,6 +7513,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
               }
             }
           ]
@@ -7141,6 +7925,83 @@
                 "override": false,
                 "rarity": 1
               }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -7287,6 +8148,13 @@
                 "override": false,
                 "rarity": 0
               }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_outside_enemies_max_power": false,
@@ -7427,6 +8295,13 @@
             },
             {
               "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
               "value": {
                 "override": false,
                 "rarity": 0
@@ -7576,6 +8451,13 @@
               "value": {
                 "override": false,
                 "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
               }
             }
           ]
@@ -7883,6 +8765,138 @@
           "max_discount": 80,
           "override_weight": false,
           "weight": 1.1
+        }
+      },
+      {
+        "key": "Diving Kit",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 650,
+          "override_max_discount": false,
+          "max_discount": 0,
+          "override_weight": false,
+          "weight": 1.65
+        }
+      },
+      {
+        "key": "Emergency Flare (ammo)",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 20,
+          "override_max_discount": false,
+          "max_discount": 80,
+          "override_weight": false,
+          "weight": 1.009523
+        }
+      },
+      {
+        "key": "Flaregun",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 100,
+          "override_max_discount": false,
+          "max_discount": 80,
+          "override_weight": false,
+          "weight": 1.028
+        }
+      },
+      {
+        "key": "Hacking Tool",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 120,
+          "override_max_discount": false,
+          "max_discount": 80,
+          "override_weight": false,
+          "weight": 1.0476
+        }
+      },
+      {
+        "key": "Helmet",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 750,
+          "override_max_discount": false,
+          "max_discount": 0,
+          "override_weight": false,
+          "weight": 1.05
+        }
+      },
+      {
+        "key": "Medkit",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 300,
+          "override_max_discount": false,
+          "max_discount": 0,
+          "override_weight": false,
+          "weight": 1.15
+        }
+      },
+      {
+        "key": "Night Vision Goggles",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 380,
+          "override_max_discount": false,
+          "max_discount": 0,
+          "override_weight": false,
+          "weight": 1.04
+        }
+      },
+      {
+        "key": "Peeper",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 500,
+          "override_max_discount": false,
+          "max_discount": 0,
+          "override_weight": false,
+          "weight": 1.15
+        }
+      },
+      {
+        "key": "Pinger",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 100,
+          "override_max_discount": false,
+          "max_discount": 80,
+          "override_weight": false,
+          "weight": 1.028
+        }
+      },
+      {
+        "key": "Rocket Launcher",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 300,
+          "override_max_discount": false,
+          "max_discount": 80,
+          "override_weight": false,
+          "weight": 1.38
+        }
+      },
+      {
+        "key": "Wheelbarrow",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 400,
+          "override_max_discount": false,
+          "max_discount": 0,
+          "override_weight": false,
+          "weight": 1.29
         }
       }
     ],
@@ -8546,6 +9560,138 @@
           "override_weight": false,
           "weight": 1.0
         }
+      },
+      {
+        "key": "Arson Plush",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 100,
+          "override_max_value": false,
+          "max_value": 250,
+          "override_weight": false,
+          "weight": 1.0952
+        }
+      },
+      {
+        "key": "Cookie Fumo",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 100,
+          "override_max_value": false,
+          "max_value": 250,
+          "override_weight": false,
+          "weight": 1.0476
+        }
+      },
+      {
+        "key": "Dirty Arson Plush",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 30,
+          "override_max_value": false,
+          "max_value": 150,
+          "override_weight": false,
+          "weight": 1.0952
+        }
+      },
+      {
+        "key": "Glizzy",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 25,
+          "override_max_value": false,
+          "max_value": 60,
+          "override_weight": false,
+          "weight": 1.0476
+        }
+      },
+      {
+        "key": "Gnarpy Plush",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 100,
+          "override_max_value": false,
+          "max_value": 250,
+          "override_weight": false,
+          "weight": 1.0952
+        }
+      },
+      {
+        "key": "Gremlin Can",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 45,
+          "override_max_value": false,
+          "max_value": 225,
+          "override_weight": false,
+          "weight": 1.07
+        }
+      },
+      {
+        "key": "Hamis Plush",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 60,
+          "override_max_value": false,
+          "max_value": 250,
+          "override_weight": false,
+          "weight": 1.0476
+        }
+      },
+      {
+        "key": "Maxwell",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 180,
+          "override_max_value": false,
+          "max_value": 350,
+          "override_weight": false,
+          "weight": 1.11428
+        }
+      },
+      {
+        "key": "Revolver",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 20,
+          "override_max_value": false,
+          "max_value": 150,
+          "override_weight": false,
+          "weight": 1.028
+        }
+      },
+      {
+        "key": "Toimari Plush",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 100,
+          "override_max_value": false,
+          "max_value": 250,
+          "override_weight": false,
+          "weight": 1.0952
+        }
+      },
+      {
+        "key": "Toy Hammer",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 40,
+          "override_max_value": false,
+          "max_value": 200,
+          "override_weight": false,
+          "weight": 1.0952
+        }
       }
     ],
     "unlockables": [
@@ -8699,6 +9845,46 @@
           "active": true,
           "override_price": false,
           "price": 375
+        }
+      },
+      {
+        "key": "Fatalities Sign",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 20
+        }
+      },
+      {
+        "key": "Glow",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 60
+        }
+      },
+      {
+        "key": "Large Rug",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 110
+        }
+      },
+      {
+        "key": "Dartboard",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 80
+        }
+      },
+      {
+        "key": "Small Rug",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 80
         }
       }
     ],
