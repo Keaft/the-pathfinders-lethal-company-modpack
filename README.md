@@ -8,6 +8,10 @@
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
 ## Changelog
+### 24.2.1201
+#### Configurations:
+- Fixed typo in suit removal.
+
 ### 24.2.1200
 #### Mod(s) Added:
 - **IntroTweaks** skips the intro and various menu tweaks. Time is money! Get in there!
