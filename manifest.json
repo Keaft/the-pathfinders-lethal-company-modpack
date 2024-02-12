@@ -1,6 +1,6 @@
 {
     "name": "The_Pathfinders_Modpack",
-    "version_number": "24.2.1201",
+    "version_number": "24.2.1202",
     "website_url": "https://github.com/Keaft/the-pathfinders-lethal-company-modpack",
     "description": "A modpack that tries to stay true to the original feel with some minor content additions and quality of life adjustments.",
     "dependencies": [
@@ -11,6 +11,7 @@
         "NotAtomicBomb-TerminalApi-1.5.1",
         "Hexnet111-SuitSaver-1.1.4",
         "AllToasters-QuickRestart-1.2.0",
+        "Nases-Quick_Drop-1.0.1",
         "x753-More_Suits-1.4.1",
         "ViViKo-MoreMaterials-1.3.1",
         "notnotnotswipez-MoreCompany-1.8.1",
@@ -21,7 +22,6 @@
         "Rune580-LethalCompany_InputUtils-0.6.3",
         "Pooble-LCBetterSaves-1.7.3",
         "malco-Lategame_Upgrades-3.1.1",
-        "boxofbiscuits97-ItemDropCycler-1.1.0",
         "Owen3H-IntroTweaks-1.4.5",
         "Evaisa-HookGenPatcher-0.0.5",
         "Monkeytype-HideChat-1.0.0",

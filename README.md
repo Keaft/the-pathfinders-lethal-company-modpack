@@ -8,6 +8,13 @@
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
 ## Changelog
+### 24.2.1202
+#### Mod(s) Added:
+- **Quick Drop** in replacement of ItemDropCycler.
+
+#### Mod(s) Removed:
+- **ItemDropCycler** didn't cycle quite as nicely as Quick Drop does.
+
 ### 24.2.1201
 #### Configurations:
 - Fixed typo in suit removal.
