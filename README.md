@@ -10,14 +10,14 @@
 ## Changelog
 ### 24.2.1200
 #### Mod(s) Added:
-- **IntroTweaks** skips the intro and various menue tweaks. Time is money! Get in there!
+- **IntroTweaks** skips the intro and various menu tweaks. Time is money! Get in there!
 - **AdvancedCompany** gives greater control over lobby as well as replacing several other mods!
 
 #### Mod(s) Removed:
-- **HotbarPlus** now coverd by AdvancedCompany.
-- **LateCompany** now coverd by AdvancedCompany.
-- **MoreItems** now coverd by AdvancedCompany.
-- **SuitSaver** now coverd by AdvancedCompany.
+- **HotbarPlus** now covered by AdvancedCompany.
+- **LateCompany** now covered by AdvancedCompany.
+- **MoreItems** now covered by AdvancedCompany.
+- **SuitSaver** now covered by AdvancedCompany.
 
 #### Configurations:
 - Remove HotbarPlus configs.
