@@ -8,6 +8,20 @@
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
 ## Changelog
+### 24.2.1300
+#### Mod(s) Added:
+- GeneralImprovements which fixes bugs and replaces a bunch of other mods functionality.
+
+#### Mod(s) Removed:
+- **Corporate Restructure** now handled by GeneralImprovements.
+- **FastSwitchPlayerViewInRadar** now handled by GeneralImprovements.
+- **IntroTweaks** now handled by GeneralImprovements.
+- **LetMeLookDown** now handled by GeneralImprovements.
+
+#### Configurations:
+- Established the layout of the new in ship monitor setup.
+- Removed Controller scrapy from Pathfinders Standard Preset. Doom is a huge departure from vanilla even if it is a cool concept. :D
+
 ### 24.2.1202
 #### Mod(s) Added:
 - **Quick Drop** in replacement of ItemDropCycler.
