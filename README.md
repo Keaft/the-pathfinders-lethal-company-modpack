@@ -10,7 +10,7 @@
 ## Changelog
 ### 24.2.1300
 #### Mod(s) Added:
-- GeneralImprovements which fixes bugs and replaces a bunch of other mods functionality.
+- **GeneralImprovements** which fixes bugs and replaces a bunch of other mods functionality.
 
 #### Mod(s) Removed:
 - **Corporate Restructure** now handled by GeneralImprovements.
