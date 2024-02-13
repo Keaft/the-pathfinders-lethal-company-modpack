@@ -22,6 +22,7 @@
 #### Configurations:
 - Established the layout of the new in ship monitor setup.
 - Removed Controller scrapy from Pathfinders Standard Preset. Doom is a huge departure from vanilla even if it is a cool concept. :D
+- Finalized GeneralImprovements configurations to properly replace mods and be compatible with existing mods.
 
 ### 24.2.1202
 #### Mod(s) Added:
