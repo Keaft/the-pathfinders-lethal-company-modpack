@@ -9,6 +9,10 @@
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
 ## Changelog
+### 24.2.1301
+#### Configurations:
+- Change Scrap Insurance cost to 200 bringing the pack into a decent position for singleplayer as well as multiplayer.
+
 ### 24.2.1300
 #### Mod(s) Added:
 - **GeneralImprovements** which fixes bugs and replaces a bunch of other mods functionality.
@@ -21,7 +25,7 @@
 
 #### Configurations:
 - Established the layout of the new in ship monitor setup.
-- Removed Controller scrapy from Pathfinders Standard Preset. Doom is a huge departure from vanilla even if it is a cool concept. :D
+- Removed Controller scrap from Pathfinders Standard Preset. Doom is a huge departure from vanilla even if it is a cool concept. :D
 - Finalized GeneralImprovements configurations to properly replace mods and be compatible with existing mods.
 
 ### 24.2.1202
