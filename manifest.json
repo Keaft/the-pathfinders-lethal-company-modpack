@@ -1,6 +1,6 @@
 {
     "name": "The_Pathfinders_Modpack",
-    "version_number": "24.2.1301",
+    "version_number": "24.2.1400",
     "website_url": "https://github.com/Keaft/the-pathfinders-lethal-company-modpack",
     "description": "A modpack that tries to stay true to the original feel with some minor content additions and quality of life adjustments.",
     "dependencies": [
@@ -33,6 +33,6 @@
         "PopleZoo-BetterItemScan-3.0.1",
         "BepInEx-BepInExPack-5.4.2100",
         "Suskitech-AlwaysHearActiveWalkies-1.4.4",
-        "PotatoePet-AdvancedCompany-1.1.0"
+        "PotatoePet-AdvancedCompany-1.1.1"
     ]
 }
