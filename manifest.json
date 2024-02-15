@@ -1,6 +1,6 @@
 {
     "name": "The_Pathfinders_Modpack",
-    "version_number": "24.2.1500",
+    "version_number": "24.2.1501",
     "website_url": "https://github.com/Keaft/the-pathfinders-lethal-company-modpack",
     "description": "A modpack that tries to stay true to the original feel with some minor content additions and quality of life adjustments.",
     "dependencies": [
@@ -12,6 +12,7 @@
         "Hexnet111-SuitSaver-1.1.4",
         "AllToasters-QuickRestart-1.2.0",
         "Nases-Quick_Drop-1.0.1",
+        "Zaggy1024-PathfindingLagFix-1.2.1",
         "Zaggy1024-OpenBodyCams-1.2.0",
         "x753-More_Suits-1.4.1",
         "ViViKo-MoreMaterials-1.3.1",
