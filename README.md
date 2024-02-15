@@ -11,6 +11,18 @@
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
 ## Changelog
+### 24.2.1500
+#### Mod(s) Added:
+- **CullFactory** stops the client from rendering the map that isn't currently visible to the player improving performance.
+- **OpenBodyCams** in hopes of having a more performant body/head cam on the monitor from selected player. Good compatibility with GeneralImprovements.
+
+#### Mod(s) Removed:
+- **HelmetCameras** woops this should have been removed a while ago. :D
+
+#### configurations:
+- Lowered the total number of suits rendered on the rack at a time to improve performance.
+- Changed monitor layout slightly to allow external camera to be shown.
+
 ### 24.2.1400
 #### Mod(s) Updated:
 - **AdvancedCompany** to 1.1.1.
