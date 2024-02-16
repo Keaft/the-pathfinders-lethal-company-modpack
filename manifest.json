@@ -1,6 +1,6 @@
 {
     "name": "The_Pathfinders_Modpack",
-    "version_number": "24.2.1501",
+    "version_number": "24.2.1600",
     "website_url": "https://github.com/Keaft/the-pathfinders-lethal-company-modpack",
     "description": "A modpack that tries to stay true to the original feel with some minor content additions and quality of life adjustments.",
     "dependencies": [
@@ -30,7 +30,7 @@
         "boring-EmoteWhileInMotion-1.0.0",
         "EladNLG-EladsHUD-1.2.1",
         "akechii-DiscountAlert-2.3.0",
-        "fumiko-CullFactory-0.8.2",
+        "fumiko-CullFactory-0.8.3",
         "taffyko-BetterSprayPaint-2.0.2",
         "PopleZoo-BetterItemScan-3.0.1",
         "BepInEx-BepInExPack-5.4.2100",

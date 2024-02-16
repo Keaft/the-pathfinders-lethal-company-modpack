@@ -11,6 +11,10 @@
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
 ## Changelog
+### 24.2.1600
+#### Mod(s) Updated:
+- **CullFactory** to 0.8.3.
+
 ### 24.2.1501
 #### Mod(s) Added:
 - **PathfindingLagFix** to hopefully address some lag while in the facility.
