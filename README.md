@@ -10,7 +10,19 @@
  
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
  
+#### Known issue(s):
+- On startup **EmployeeAssignments** says it's out of date, but it's not. :D
+- EXP only goes down. Unclear on what is currently causing this.
+
 ## Changelog
+### 24.2.1800
+#### Mod(s) Updated:
+- **OpenBodyCams** to 1.2.2.
+
+### 24.2.1601
+#### Configurations:
+- Starting credits per player disabled and now controlled only by lobby setup.
+
 ### 24.2.1600
 #### Mod(s) Updated:
 - **CullFactory** to 0.8.3.
@@ -27,7 +39,7 @@
 #### Mod(s) Removed:
 - **HelmetCameras** woops this should have been removed a while ago. :D
 
-#### configurations:
+#### Configurations:
 - Lowered the total number of suits rendered on the rack at a time to improve performance.
 - Changed monitor layout slightly to allow external camera to be shown.
 
@@ -109,9 +121,6 @@
 - Fatalities sign now costs 20. It should be company standard issue, but you know how they are some times...
 - Dart Board is cheaper. It's not a pizza party but...
 - Established configs to make sure ItemQuickSwitch and HotbarPlus play nicely.
-
-#### Known issue(s):
-- On startup **EmployeeAssignments** says it's out of date, but it's not. :D
 
 ### 24.2.901
 - Removed Custom Boombox Music mod.
