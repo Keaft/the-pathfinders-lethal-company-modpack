@@ -8770,7 +8770,7 @@
       {
         "key": "Diving Kit",
         "value": {
-          "active": true,
+          "active": false,
           "override_price": false,
           "price": 650,
           "override_max_discount": false,

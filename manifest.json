@@ -5,7 +5,6 @@
     "description": "A modpack that tries to stay true to the original feel with some minor content additions and quality of life adjustments.",
     "dependencies": [
         "5andwiches-5andwiches_Closet-1.0.3",
-        "Blorb-WeatherMultipliers-1.1.0",
         "Verity-TooManySuits-1.0.5",
         "NotAtomicBomb-Terminal_Clock-1.0.5",
         "NotAtomicBomb-TerminalApi-1.5.1",
@@ -33,6 +32,7 @@
         "fumiko-CullFactory-0.8.3",
         "taffyko-BetterSprayPaint-2.0.2",
         "PopleZoo-BetterItemScan-3.0.1",
+        "Swaggies-BetterEXP-1.2.2",
         "BepInEx-BepInExPack-5.4.2100",
         "Suskitech-AlwaysHearActiveWalkies-1.4.4",
         "PotatoePet-AdvancedCompany-1.1.1"

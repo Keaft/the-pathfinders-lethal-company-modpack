@@ -12,12 +12,18 @@
  
 #### Known issue(s):
 - On startup **EmployeeAssignments** says it's out of date, but it's not. :D
-- EXP only goes down. Unclear on what is currently causing this.
+- EXP only goes down? Unclear on what causes this or if it's still happening after chasing it around.
 
 ## Changelog
 ### 24.2.1800
+#### Mod(s) Added:
+- **BetterEXP** for more numbers go up fun! Thanks for your help trying to chase the EXP problem Swaggies! ;)
+
 #### Mod(s) Updated:
 - **OpenBodyCams** to 1.2.2.
+
+#### Mod(s) Removed:
+- **WeatherMultipliers** already covered by AdvancedCompany!
 
 ### 24.2.1601
 #### Configurations:
