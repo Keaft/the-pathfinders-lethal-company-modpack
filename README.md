@@ -15,6 +15,10 @@
 - EXP only goes down? Unclear on what causes this or if it's still happening after chasing it around.
 
 ## Changelog
+### 24.2.1900
+#### Configurations
+- All store items are now scannable!
+
 ### 24.2.1800
 #### Mod(s) Added:
 - **BetterEXP** for more numbers go up fun! Thanks for your help trying to chase the EXP problem Swaggies! ;)
