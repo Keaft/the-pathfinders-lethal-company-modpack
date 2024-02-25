@@ -1,3 +1,10 @@
+## 24.2.2500
+#### Mod(s) Updated:
+- **_AdvancedCompany_** to 1.2.9.
+- **_CullFactory_** to 3.2.4.
+- **_Lategame_Upgrades_** to 0.8.6.
+- **_OpenBodyCams_** to 1.1.2.
+
 ## 24.2.2300
 #### Mod(s) Updated:
 - **_OpenBodyCams_** to 1.2.8.

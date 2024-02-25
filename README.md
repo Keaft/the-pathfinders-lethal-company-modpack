@@ -12,4 +12,4 @@
  
 #### Known issue(s):
 - On startup **EmployeeAssignments** says it's out of date, but it's not. :D
-- EXP only goes down? Unclear on what causes this or if it's still happening after chasing it around.
+- EXP going down. This occurs when you lose a value of scrap on your ship greater than what you gain. This is a vanilla bug in which scrapCollectedInLevel is divided by totalScrapValueInLevel resulting in a negative value. Or so it seems :)
