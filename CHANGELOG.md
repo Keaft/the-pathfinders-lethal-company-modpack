@@ -1,11 +1,13 @@
 ## 24.2.2600
 #### Mod(s) Added:
+- __HDLethalCompany__ 1.5.6 to hopefully address some of the frame drops without utilizing better visuals for the time being.
 
 #### Configurations:
 - New Pathfinders Standard preset for the Advanced Company update.
 -- Hotbar handling re-enabled.
 -- Disable Experimental joining while landing.
 - Disabled ExternalCam on right monitor.
+- Lowered some visual settings through HDLethalCompany.
 
 ## 24.2.2500
 #### Mod(s) Updated:
