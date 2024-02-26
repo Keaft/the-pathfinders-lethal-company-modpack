@@ -1,3 +1,12 @@
+## 24.2.2600
+#### Mod(s) Added:
+
+#### Configurations:
+- New Pathfinders Standard preset for the Advanced Company update.
+-- Hotbar handling re-enabled.
+-- Disable Experimental joining while landing.
+- Disabled ExternalCam on right monitor.
+
 ## 24.2.2500
 #### Mod(s) Updated:
 - __AdvancedCompany__ to 1.2.9.
