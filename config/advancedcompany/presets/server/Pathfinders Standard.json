@@ -2,21 +2,25 @@
   "lobby": {
     "lobby_size": 20,
     "keep_open": true,
-    "keep_open_on_moon": true
+    "keep_open_on_moon": false
   },
   "general": {
-    "global_scrap_amount_multiplier": 1.0,
-    "global_scrap_value_multiplier": 1.0,
-    "global_max_power_multiplier": 1.0,
+    "global_scrap_amount_multiplier": 1.2,
+    "global_scrap_value_multiplier": 0.9,
+    "global_max_power_multiplier": 1.2,
     "deadline_length": 3,
-    "start_credits": 60,
+    "start_credits": 100,
     "activate_portable_terminal": false,
     "enable_cosmetics": true,
     "enable_extend_deadline": false,
     "save_suits_after_death": true,
     "save_progress": true,
+    "individual_xp": true,
+    "deactivate_hotbar": false,
+    "reset_xp": true,
     "xpmultiplier": 1.0,
     "starting_xp": 500,
+    "starting_ship_xp": 0,
     "day_length": 700
   },
   "moons": {
@@ -8768,6 +8772,18 @@
         }
       },
       {
+        "key": "Advanced Portable Tele",
+        "value": {
+          "active": false,
+          "override_price": false,
+          "price": 1750,
+          "override_max_discount": false,
+          "max_discount": 0,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
         "key": "Diving Kit",
         "value": {
           "active": false,
@@ -8876,6 +8892,18 @@
         }
       },
       {
+        "key": "Portable Tele",
+        "value": {
+          "active": false,
+          "override_price": false,
+          "price": 300,
+          "override_max_discount": false,
+          "max_discount": 0,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
         "key": "Rocket Launcher",
         "value": {
           "active": true,
@@ -8897,6 +8925,42 @@
           "max_discount": 0,
           "override_weight": false,
           "weight": 1.29
+        }
+      },
+      {
+        "key": "Remote Radar",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 150,
+          "override_max_discount": false,
+          "max_discount": 80,
+          "override_weight": false,
+          "weight": 1.0476
+        }
+      },
+      {
+        "key": "Toy Hammer",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 15,
+          "override_max_discount": false,
+          "max_discount": 80,
+          "override_weight": false,
+          "weight": 1.0952
+        }
+      },
+      {
+        "key": "Utility Belt",
+        "value": {
+          "active": true,
+          "override_price": false,
+          "price": 290,
+          "override_max_discount": false,
+          "max_discount": 80,
+          "override_weight": false,
+          "weight": 1.0952
         }
       }
     ],
