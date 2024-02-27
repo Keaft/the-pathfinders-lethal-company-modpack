@@ -1,4 +1,10 @@
-## 24.2.2600
+## 24.2.2700
+#### Mod(s) Updated:
+- __CullFactory__ to 0.8.7. Which should hopefully fix interior door desyncs.
+- __Lategame Upgrades__ to 3.2.6.
+- __OpenBodyCams__ to 1.2.10.
+
+## 24.2.2501
 #### Mod(s) Added:
 - __HDLethalCompany__ 1.5.6 to hopefully address some of the frame drops without utilizing better visuals for the time being.
 
