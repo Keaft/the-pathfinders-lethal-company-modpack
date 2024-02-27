@@ -13,3 +13,4 @@
 #### Known issue(s):
 - On startup **EmployeeAssignments** says it's out of date, but it's not. :D
 - EXP going down. This occurs when you lose a value of scrap from your ship (keys, stop signs, shotguns, or any other scrap) greater than what you gain. This is a vanilla bug in which scrapCollectedInLevel is divided by totalScrapValueInLevel resulting in a negative value. Or so it seems :)
+- It seems that sometimes items go invisible. Still carriable and pingable, just invisible.

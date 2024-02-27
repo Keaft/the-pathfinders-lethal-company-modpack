@@ -1,3 +1,10 @@
+## 24.2.2701
+#### Mod(s) Updated:
+- __BetterItemScan__ to 3.0.2.
+- __CullFactory__ to 0.9.0. 
+- __Lategame Upgrades__ to 3.3.0.
+- __AdvancedCompany__ to 1.1.10.
+
 ## 24.2.2700
 #### Mod(s) Updated:
 - __CullFactory__ to 0.8.7. Which should hopefully fix interior door desyncs.
