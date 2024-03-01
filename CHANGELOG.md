@@ -1,9 +1,11 @@
-## 24.2.2701
+## 24.3.1000
 #### Mod(s) Updated:
 - __BetterItemScan__ to 3.0.2.
-- __CullFactory__ to 0.9.0. 
+- __CullFactory__ to 0.9.1. Should fix lights shining through walls. 
 - __Lategame Upgrades__ to 3.3.0.
 - __AdvancedCompany__ to 1.1.10.
+- __OpenBodyCams__ to 1.2.11.
+- __GeneralImprovements__ to 1.1.10.
 
 ## 24.2.2700
 #### Mod(s) Updated:
