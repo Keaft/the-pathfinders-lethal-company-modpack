@@ -7,6 +7,9 @@
 - __OpenBodyCams__ to 1.2.11.
 - __GeneralImprovements__ to 1.1.11.
 
+#### Configurations:
+- Regenerated GeneralImprovements config with updates maintaining previous changes.
+
 ## 24.2.2700
 #### Mod(s) Updated:
 - __CullFactory__ to 0.8.7. Which should hopefully fix interior door desyncs.
