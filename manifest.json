@@ -1,6 +1,6 @@
 {
     "name": "The_Pathfinders_Modpack",
-    "version_number": "24.2.2701",
+    "version_number": "24.3.2000",
     "website_url": "https://github.com/Keaft/the-pathfinders-lethal-company-modpack",
     "description": "A modpack that tries to stay true to the original feel with some minor content additions and quality of life adjustments.",
     "dependencies": [
@@ -25,7 +25,7 @@
         "Evaisa-HookGenPatcher-0.0.5",
         "Monkeytype-HideChat-1.0.0",
         "Sligili-HDLethalCompany-1.5.6",
-        "ShaosilGaming-GeneralImprovements-1.1.10",
+        "ShaosilGaming-GeneralImprovements-1.1.11",
         "amnsoft-EmployeeAssignments-1.1.0",
         "boring-EmoteWhileInMotion-1.0.0",
         "EladNLG-EladsHUD-1.2.1",
