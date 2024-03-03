@@ -1,4 +1,4 @@
-## 24.3.3000
+## 24.3.300
 #### Mod(s) Updated:
 - __BetterItemScan__ to 3.0.2.
 - __CullFactory__ to 0.9.1. Should fix lights shining through walls. 
