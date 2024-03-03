@@ -8,7 +8,7 @@
  
  If you have saves that you wish to maintain, take a backup before installing this modpack.
  
- I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D 
+ I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D Welp... quickly messed that up. I'll probably go with [year].[month].[update_number]
  
 #### Known issue(s):
 - On startup **EmployeeAssignments** says it's out of date, but it's not. :D
