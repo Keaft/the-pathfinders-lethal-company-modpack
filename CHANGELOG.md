@@ -1,3 +1,7 @@
+## 24.3.500
+#### Configurations:
+- Keep items on inverse teleport, regular teleport is still the same.
+
 ## 24.3.300
 #### Mod(s) Updated:
 - __BetterItemScan__ to 3.0.2.
