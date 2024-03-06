@@ -1,6 +1,6 @@
-## 24.3.500
+## 24.3.600
 #### Configurations:
-- Keep items on inverse teleport, regular teleport is still the same.
+- Keep all items on inverse teleport, non-scrap items on regular teleport.
 - Adjusted credit cost of Rend:450 and Dine:550.
 - Adjusted Bodycam monitor to exclude rendering target if they are on the ship to help with lag?
 - Moved Bodycam monitor to encourage not standing in the way of the teleporter button. :D
