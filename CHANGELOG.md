@@ -1,4 +1,10 @@
-## 24.3.600
+## 24.3.1000
+#### Mod(s) Updated: 
+- __AdvancedCompany__ to 1.1.14.
+- __Lategame Upgrades__ to 3.3.1.
+- __MoreMaterials__ to 1.3.2.
+- __5andwiches Closet__ to 2.0.1.
+
 #### Configurations:
 - Keep all items on inverse teleport, non-scrap items on regular teleport.
 - Adjusted credit cost of Rend:450 and Dine:550.
