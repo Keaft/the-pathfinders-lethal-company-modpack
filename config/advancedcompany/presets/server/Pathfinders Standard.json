@@ -502,6 +502,258 @@
                 "override": false,
                 "rarity": 10
               }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -1439,6 +1691,258 @@
               "value": {
                 "override": false,
                 "rarity": 10
+              }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ],
@@ -2378,6 +2882,258 @@
                 "override": false,
                 "rarity": 10
               }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -3315,6 +4071,258 @@
               "value": {
                 "override": false,
                 "rarity": 10
+              }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ],
@@ -4254,6 +5262,258 @@
                 "override": false,
                 "rarity": 10
               }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -5191,6 +6451,258 @@
               "value": {
                 "override": false,
                 "rarity": 10
+              }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ],
@@ -6130,6 +7642,258 @@
                 "override": false,
                 "rarity": 10
               }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -7067,6 +8831,258 @@
               "value": {
                 "override": false,
                 "rarity": 10
+              }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
               }
             }
           ],
@@ -8006,6 +10022,258 @@
                 "override": false,
                 "rarity": 10
               }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
             }
           ],
           "override_daytime_enemies_max_power": false,
@@ -8466,6 +10734,3576 @@
             }
           ]
         }
+      },
+      {
+        "key": "76 Acidir",
+        "value": {
+          "override_price": false,
+          "price": 580,
+          "override_dungeon_size": false,
+          "dungeon_size": 2.1,
+          "override_min_scrap_amount": false,
+          "min_scrap_amount": 26,
+          "override_max_scrap_amount": false,
+          "max_scrap_amount": 30,
+          "override_scrap_amount_modifier": false,
+          "scrap_amount_modifier": 1.0,
+          "override_scrap_value_modifier": false,
+          "scrap_value_modifier": 1.0,
+          "loot_table": [
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 44
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 38
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 32
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 28
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 26
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 21
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 11
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 23
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 22
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 2
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 7
+              }
+            },
+            {
+              "key": "Ring",
+              "value": {
+                "override": false,
+                "rarity": 2
+              }
+            },
+            {
+              "key": "Airhorn",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Clown horn",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Magnifying glass",
+              "value": {
+                "override": false,
+                "rarity": 2
+              }
+            },
+            {
+              "key": "Golden cup",
+              "value": {
+                "override": false,
+                "rarity": 4
+              }
+            },
+            {
+              "key": "Magic 7 ball",
+              "value": {
+                "override": false,
+                "rarity": 2
+              }
+            },
+            {
+              "key": "Comedy",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Tragedy",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Painting",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 9
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 9
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 9
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 9
+              }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Bell",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Big bolt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bottles",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Brush",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cash register",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Chemical jug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cookie mold pan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dust pan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Egg beater",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fancy lamp",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Flask",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Gift",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Gold bar",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Hairdryer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Homemade flashbang",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jar of pickles",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large axle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Laser pointer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Light shoes",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Metal sheet",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Mug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Old phone",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Perfume bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Pill bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Plastic fish",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Potatoes",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red soda",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Remote",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rubber Ducky",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Skillet",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Steering wheel",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Stop sign",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tea kettle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Teeth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toothpaste",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy car",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy robot",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy tank",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "V-type engine",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Warplane toy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Whoopie cushion",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Yield sign",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ],
+          "override_daytime_enemies_max_power": false,
+          "daytime_enemies_max_power": 18,
+          "override_daytime_enemies_probability": false,
+          "daytime_enemies_probability": 30.0,
+          "daytime_enemies": [
+            {
+              "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 6
+              }
+            },
+            {
+              "key": "Manticoil",
+              "value": {
+                "override": false,
+                "rarity": 41
+              }
+            },
+            {
+              "key": "Docile Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 94
+              }
+            },
+            {
+              "key": "Baboon hawk",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Blob",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunker Spider",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Centipede",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crawler",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Earth Leviathan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Flowerman",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "ForestGiant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Girl",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Hoarding bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jester",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lasso",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Masked",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "MouthDog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Nutcracker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Puffer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ],
+          "override_outside_enemies_max_power": false,
+          "outside_enemies_max_power": 12,
+          "outside_enemies": [
+            {
+              "key": "Puffer",
+              "value": {
+                "override": false,
+                "rarity": 74
+              }
+            },
+            {
+              "key": "ForestGiant",
+              "value": {
+                "override": false,
+                "rarity": 46
+              }
+            },
+            {
+              "key": "Baboon hawk",
+              "value": {
+                "override": false,
+                "rarity": 29
+              }
+            },
+            {
+              "key": "Blob",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunker Spider",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Centipede",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crawler",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Docile Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Earth Leviathan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Flowerman",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Girl",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Hoarding bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jester",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lasso",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Manticoil",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Masked",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "MouthDog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Nutcracker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ],
+          "override_inside_enemies_max_power": false,
+          "inside_enemies_max_power": 17,
+          "override_inside_enemies_probability": false,
+          "inside_enemies_probability": 12.4,
+          "inside_enemies": [
+            {
+              "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 6
+              }
+            },
+            {
+              "key": "Masked",
+              "value": {
+                "override": false,
+                "rarity": 28
+              }
+            },
+            {
+              "key": "Hoarding bug",
+              "value": {
+                "override": false,
+                "rarity": 57
+              }
+            },
+            {
+              "key": "Flowerman",
+              "value": {
+                "override": false,
+                "rarity": 21
+              }
+            },
+            {
+              "key": "Crawler",
+              "value": {
+                "override": false,
+                "rarity": 48
+              }
+            },
+            {
+              "key": "Jester",
+              "value": {
+                "override": false,
+                "rarity": 24
+              }
+            },
+            {
+              "key": "Girl",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Puffer",
+              "value": {
+                "override": false,
+                "rarity": 66
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
+              }
+            },
+            {
+              "key": "Baboon hawk",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Blob",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunker Spider",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Centipede",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Docile Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Earth Leviathan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "ForestGiant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lasso",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Manticoil",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "MouthDog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Nutcracker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "key": "94 Polarus",
+        "value": {
+          "override_price": false,
+          "price": 650,
+          "override_dungeon_size": false,
+          "dungeon_size": 2.0,
+          "override_min_scrap_amount": false,
+          "min_scrap_amount": 30,
+          "override_max_scrap_amount": false,
+          "max_scrap_amount": 37,
+          "override_scrap_amount_modifier": false,
+          "scrap_amount_modifier": 1.0,
+          "override_scrap_value_modifier": false,
+          "scrap_value_modifier": 1.0,
+          "loot_table": [
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 32
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 30
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 28
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 26
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 23
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 20
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 17
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 20
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 21
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 15
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 9
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 14
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 7
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 8
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 8
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 8
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 8
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Ring",
+              "value": {
+                "override": false,
+                "rarity": 14
+              }
+            },
+            {
+              "key": "Cash register",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Magnifying glass",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Fancy lamp",
+              "value": {
+                "override": false,
+                "rarity": 6
+              }
+            },
+            {
+              "key": "Golden cup",
+              "value": {
+                "override": false,
+                "rarity": 8
+              }
+            },
+            {
+              "key": "Perfume bottle",
+              "value": {
+                "override": false,
+                "rarity": 9
+              }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 3
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 5
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Airhorn",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bell",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Big bolt",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bottles",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Brush",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Chemical jug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Clown horn",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Comedy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cookie mold pan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dust pan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Egg beater",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Flask",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Gift",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Gold bar",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Hairdryer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Homemade flashbang",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jar of pickles",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large axle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Laser pointer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Light shoes",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Magic 7 ball",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Metal sheet",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Mug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Old phone",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Painting",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Pill bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Plastic fish",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Potatoes",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red soda",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Remote",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rubber Ducky",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Skillet",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Steering wheel",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Stop sign",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tea kettle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Teeth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toothpaste",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy car",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy robot",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy tank",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tragedy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "V-type engine",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Warplane toy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Whoopie cushion",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Yield sign",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ],
+          "override_daytime_enemies_max_power": false,
+          "daytime_enemies_max_power": 5,
+          "override_daytime_enemies_probability": false,
+          "daytime_enemies_probability": 5.0,
+          "daytime_enemies": [
+            {
+              "key": "Manticoil",
+              "value": {
+                "override": false,
+                "rarity": 87
+              }
+            },
+            {
+              "key": "Docile Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 26
+              }
+            },
+            {
+              "key": "Blob",
+              "value": {
+                "override": false,
+                "rarity": 18
+              }
+            },
+            {
+              "key": "Baboon hawk",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunker Spider",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Centipede",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crawler",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Earth Leviathan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Flowerman",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "ForestGiant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Girl",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Hoarding bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jester",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lasso",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Masked",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "MouthDog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Nutcracker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Puffer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ],
+          "override_outside_enemies_max_power": false,
+          "outside_enemies_max_power": 14,
+          "outside_enemies": [
+            {
+              "key": "MouthDog",
+              "value": {
+                "override": false,
+                "rarity": 50
+              }
+            },
+            {
+              "key": "ForestGiant",
+              "value": {
+                "override": false,
+                "rarity": 7
+              }
+            },
+            {
+              "key": "Earth Leviathan",
+              "value": {
+                "override": false,
+                "rarity": 32
+              }
+            },
+            {
+              "key": "Blob",
+              "value": {
+                "override": false,
+                "rarity": 68
+              }
+            },
+            {
+              "key": "Baboon hawk",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunker Spider",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Centipede",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crawler",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Docile Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Flowerman",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Girl",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Hoarding bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jester",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lasso",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Manticoil",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Masked",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Nutcracker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Puffer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ],
+          "override_inside_enemies_max_power": false,
+          "inside_enemies_max_power": 18,
+          "override_inside_enemies_probability": false,
+          "inside_enemies_probability": 4.0,
+          "inside_enemies": [
+            {
+              "key": "Hoarding bug",
+              "value": {
+                "override": false,
+                "rarity": 28
+              }
+            },
+            {
+              "key": "Flowerman",
+              "value": {
+                "override": false,
+                "rarity": 13
+              }
+            },
+            {
+              "key": "Crawler",
+              "value": {
+                "override": false,
+                "rarity": 16
+              }
+            },
+            {
+              "key": "Blob",
+              "value": {
+                "override": false,
+                "rarity": 31
+              }
+            },
+            {
+              "key": "Girl",
+              "value": {
+                "override": false,
+                "rarity": 1
+              }
+            },
+            {
+              "key": "Puffer",
+              "value": {
+                "override": false,
+                "rarity": 30
+              }
+            },
+            {
+              "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 20
+              }
+            },
+            {
+              "key": "Nutcracker",
+              "value": {
+                "override": false,
+                "rarity": 31
+              }
+            },
+            {
+              "key": "Earth Leviathan",
+              "value": {
+                "override": false,
+                "rarity": 8
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 20
+              }
+            },
+            {
+              "key": "Baboon hawk",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunker Spider",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Centipede",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Docile Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "ForestGiant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jester",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lasso",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Manticoil",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Masked",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "MouthDog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ]
+        }
+      },
+      {
+        "key": "Atlas Abyss",
+        "value": {
+          "override_price": false,
+          "price": 300,
+          "override_dungeon_size": false,
+          "dungeon_size": 2.0,
+          "override_min_scrap_amount": false,
+          "min_scrap_amount": 18,
+          "override_max_scrap_amount": false,
+          "max_scrap_amount": 22,
+          "override_scrap_amount_modifier": false,
+          "scrap_amount_modifier": 1.0,
+          "override_scrap_value_modifier": false,
+          "scrap_value_modifier": 1.0,
+          "loot_table": [
+            {
+              "key": "Large axle",
+              "value": {
+                "override": false,
+                "rarity": 20
+              }
+            },
+            {
+              "key": "V-type engine",
+              "value": {
+                "override": false,
+                "rarity": 40
+              }
+            },
+            {
+              "key": "Plastic fish",
+              "value": {
+                "override": false,
+                "rarity": 40
+              }
+            },
+            {
+              "key": "Big bolt",
+              "value": {
+                "override": false,
+                "rarity": 12
+              }
+            },
+            {
+              "key": "Toy cube",
+              "value": {
+                "override": false,
+                "rarity": 40
+              }
+            },
+            {
+              "key": "Toy robot",
+              "value": {
+                "override": false,
+                "rarity": 12
+              }
+            },
+            {
+              "key": "Painting",
+              "value": {
+                "override": false,
+                "rarity": 38
+              }
+            },
+            {
+              "key": "Remote",
+              "value": {
+                "override": false,
+                "rarity": 13
+              }
+            },
+            {
+              "key": "Laser pointer",
+              "value": {
+                "override": false,
+                "rarity": 18
+              }
+            },
+            {
+              "key": "Cookie mold pan",
+              "value": {
+                "override": false,
+                "rarity": 31
+              }
+            },
+            {
+              "key": "Magnifying glass",
+              "value": {
+                "override": false,
+                "rarity": 18
+              }
+            },
+            {
+              "key": "Stop sign",
+              "value": {
+                "override": false,
+                "rarity": 15
+              }
+            },
+            {
+              "key": "Yield sign",
+              "value": {
+                "override": false,
+                "rarity": 16
+              }
+            },
+            {
+              "key": "Key",
+              "value": {
+                "override": false,
+                "rarity": 17
+              }
+            },
+            {
+              "key": "Tea kettle",
+              "value": {
+                "override": false,
+                "rarity": 13
+              }
+            },
+            {
+              "key": "Cash register",
+              "value": {
+                "override": false,
+                "rarity": 7
+              }
+            },
+            {
+              "key": "Gold bar",
+              "value": {
+                "override": false,
+                "rarity": 9
+              }
+            },
+            {
+              "key": "Teeth",
+              "value": {
+                "override": false,
+                "rarity": 26
+              }
+            },
+            {
+              "key": "Old phone",
+              "value": {
+                "override": false,
+                "rarity": 8
+              }
+            },
+            {
+              "key": "Airhorn",
+              "value": {
+                "override": false,
+                "rarity": 24
+              }
+            },
+            {
+              "key": "Clown horn",
+              "value": {
+                "override": false,
+                "rarity": 12
+              }
+            },
+            {
+              "key": "Gift",
+              "value": {
+                "override": false,
+                "rarity": 13
+              }
+            },
+            {
+              "key": "Homemade flashbang",
+              "value": {
+                "override": false,
+                "rarity": 13
+              }
+            },
+            {
+              "key": "Comedy",
+              "value": {
+                "override": false,
+                "rarity": 80
+              }
+            },
+            {
+              "key": "Tragedy",
+              "value": {
+                "override": false,
+                "rarity": 80
+              }
+            },
+            {
+              "key": "Magic 7 ball",
+              "value": {
+                "override": false,
+                "rarity": 40
+              }
+            },
+            {
+              "key": "Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bell",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Book",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bottles",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Brush",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunny ears",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candle Holder",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Candy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Chemical jug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Controller",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cookie Fumo",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crescent of Curses",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Cursed Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dead Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Demon Candle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Diamond",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dirty Arson Plush",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Dust pan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Egg beater",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fancy lamp",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Fire Axe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Flask",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Frog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glass Eye",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Glizzy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Gnarpy Plush",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Golden cup",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Gremlin Can",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Hairdryer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Hamis Plush",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Crystal",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ice Cube",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jar of pickles",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Box",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jewel Case",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Large Plant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Leviathan Tooth",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Light shoes",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lost Note 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Maxwell",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Metal sheet",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Mug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Perfume bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Picture Frame",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Pill bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Potatoes",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Raven Skull",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red soda",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Revolver",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ribcage",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Ring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rubber Ducky",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Rum Bottle",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Safe",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Coin",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Silver Key",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Skillet",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Steering wheel",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Tall Candlestick",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toimari Plush",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toothpaste",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy car",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy Hammer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Toy tank",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 1",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 2",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 3",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Undelivered Letter 4",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Vase",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Warplane toy",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Weezer Guitar",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Whoopie cushion",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ],
+          "override_daytime_enemies_max_power": false,
+          "daytime_enemies_max_power": 4,
+          "override_daytime_enemies_probability": false,
+          "daytime_enemies_probability": 7.0,
+          "daytime_enemies": [
+            {
+              "key": "Manticoil",
+              "value": {
+                "override": false,
+                "rarity": 50
+              }
+            },
+            {
+              "key": "Baboon hawk",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Blob",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunker Spider",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Centipede",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crawler",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Docile Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Earth Leviathan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Flowerman",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "ForestGiant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Girl",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Hoarding bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jester",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lasso",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Masked",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "MouthDog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Nutcracker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Puffer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ],
+          "override_outside_enemies_max_power": false,
+          "outside_enemies_max_power": 4,
+          "outside_enemies": [
+            {
+              "key": "MouthDog",
+              "value": {
+                "override": false,
+                "rarity": 30
+              }
+            },
+            {
+              "key": "Baboon hawk",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Blob",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Bunker Spider",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Centipede",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Crawler",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Docile Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Earth Leviathan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Flowerman",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "ForestGiant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Girl",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Hoarding bug",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jester",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lasso",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Manticoil",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Masked",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Nutcracker",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Puffer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ],
+          "override_inside_enemies_max_power": false,
+          "inside_enemies_max_power": 18,
+          "override_inside_enemies_probability": false,
+          "inside_enemies_probability": 3.0,
+          "inside_enemies": [
+            {
+              "key": "Centipede",
+              "value": {
+                "override": false,
+                "rarity": 40
+              }
+            },
+            {
+              "key": "Masked",
+              "value": {
+                "override": false,
+                "rarity": 100
+              }
+            },
+            {
+              "key": "Hoarding bug",
+              "value": {
+                "override": false,
+                "rarity": 20
+              }
+            },
+            {
+              "key": "Flowerman",
+              "value": {
+                "override": false,
+                "rarity": 20
+              }
+            },
+            {
+              "key": "Nutcracker",
+              "value": {
+                "override": false,
+                "rarity": 10
+              }
+            },
+            {
+              "key": "Blob",
+              "value": {
+                "override": false,
+                "rarity": 8
+              }
+            },
+            {
+              "key": "Crawler",
+              "value": {
+                "override": false,
+                "rarity": 19
+              }
+            },
+            {
+              "key": "Bunker Spider",
+              "value": {
+                "override": false,
+                "rarity": 20
+              }
+            },
+            {
+              "key": "Spring",
+              "value": {
+                "override": false,
+                "rarity": 8
+              }
+            },
+            {
+              "key": "Baboon hawk",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Boomba",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Docile Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Earth Leviathan",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "ForestGiant",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Girl",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Jester",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Lasso",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Manticoil",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "MouthDog",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Puffer",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            },
+            {
+              "key": "Red Locust Bees",
+              "value": {
+                "override": false,
+                "rarity": 0
+              }
+            }
+          ]
+        }
       }
     ],
     "clear_weather": {
@@ -8618,7 +14456,7 @@
       {
         "key": "Lockpicker",
         "value": {
-          "active": true,
+          "active": false,
           "override_price": false,
           "price": 20,
           "override_max_discount": false,
@@ -9755,6 +15593,438 @@
           "max_value": 200,
           "override_weight": false,
           "weight": 1.0952
+        }
+      },
+      {
+        "key": "Book",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 90,
+          "override_max_value": false,
+          "max_value": 130,
+          "override_weight": false,
+          "weight": 1.06
+        }
+      },
+      {
+        "key": "Candle Holder",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 100,
+          "override_max_value": false,
+          "max_value": 140,
+          "override_weight": false,
+          "weight": 1.1
+        }
+      },
+      {
+        "key": "Crescent of Curses",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 280,
+          "override_max_value": false,
+          "max_value": 360,
+          "override_weight": false,
+          "weight": 1.38
+        }
+      },
+      {
+        "key": "Cursed Coin",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 80,
+          "override_max_value": false,
+          "max_value": 110,
+          "override_weight": false,
+          "weight": 1.07
+        }
+      },
+      {
+        "key": "Dead Ice Crystal",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 50,
+          "override_max_value": false,
+          "max_value": 80,
+          "override_weight": false,
+          "weight": 1.07
+        }
+      },
+      {
+        "key": "Demon Candle",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 130,
+          "override_max_value": false,
+          "max_value": 180,
+          "override_weight": false,
+          "weight": 1.13
+        }
+      },
+      {
+        "key": "Diamond",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 380,
+          "override_max_value": false,
+          "max_value": 480,
+          "override_weight": false,
+          "weight": 1.05
+        }
+      },
+      {
+        "key": "Fire Axe",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 320,
+          "override_max_value": false,
+          "max_value": 480,
+          "override_weight": false,
+          "weight": 1.3
+        }
+      },
+      {
+        "key": "Frog",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 140,
+          "override_max_value": false,
+          "max_value": 160,
+          "override_weight": false,
+          "weight": 1.12
+        }
+      },
+      {
+        "key": "Glass Eye",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 100,
+          "override_max_value": false,
+          "max_value": 140,
+          "override_weight": false,
+          "weight": 1.04
+        }
+      },
+      {
+        "key": "Ice Crystal",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 130,
+          "override_max_value": false,
+          "max_value": 160,
+          "override_weight": false,
+          "weight": 1.07
+        }
+      },
+      {
+        "key": "Ice Cube",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 30,
+          "override_max_value": false,
+          "max_value": 60,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Jewel Box",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 90,
+          "override_max_value": false,
+          "max_value": 190,
+          "override_weight": false,
+          "weight": 1.08
+        }
+      },
+      {
+        "key": "Jewel Case",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 140,
+          "override_max_value": false,
+          "max_value": 220,
+          "override_weight": false,
+          "weight": 1.17
+        }
+      },
+      {
+        "key": "Key",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 0,
+          "override_max_value": false,
+          "max_value": 0,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Large Plant",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 110,
+          "override_max_value": false,
+          "max_value": 150,
+          "override_weight": false,
+          "weight": 1.16
+        }
+      },
+      {
+        "key": "Leviathan Tooth",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 45,
+          "override_max_value": false,
+          "max_value": 85,
+          "override_weight": false,
+          "weight": 1.03
+        }
+      },
+      {
+        "key": "Lost Note 1",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 30,
+          "override_max_value": false,
+          "max_value": 60,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Lost Note 2",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 30,
+          "override_max_value": false,
+          "max_value": 60,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Lost Note 3",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 30,
+          "override_max_value": false,
+          "max_value": 60,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Lost Note 4",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 30,
+          "override_max_value": false,
+          "max_value": 60,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Picture Frame",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 120,
+          "override_max_value": false,
+          "max_value": 170,
+          "override_weight": false,
+          "weight": 1.02
+        }
+      },
+      {
+        "key": "Raven Skull",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 120,
+          "override_max_value": false,
+          "max_value": 200,
+          "override_weight": false,
+          "weight": 1.08
+        }
+      },
+      {
+        "key": "Ribcage",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 180,
+          "override_max_value": false,
+          "max_value": 200,
+          "override_weight": false,
+          "weight": 1.06
+        }
+      },
+      {
+        "key": "Rum Bottle",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 40,
+          "override_max_value": false,
+          "max_value": 80,
+          "override_weight": false,
+          "weight": 1.06
+        }
+      },
+      {
+        "key": "Safe",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 240,
+          "override_max_value": false,
+          "max_value": 280,
+          "override_weight": false,
+          "weight": 1.36
+        }
+      },
+      {
+        "key": "Silver Bug",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 90,
+          "override_max_value": false,
+          "max_value": 120,
+          "override_weight": false,
+          "weight": 1.08
+        }
+      },
+      {
+        "key": "Silver Coin",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 80,
+          "override_max_value": false,
+          "max_value": 100,
+          "override_weight": false,
+          "weight": 1.04
+        }
+      },
+      {
+        "key": "Silver Key",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 90,
+          "override_max_value": false,
+          "max_value": 130,
+          "override_weight": false,
+          "weight": 1.07
+        }
+      },
+      {
+        "key": "Tall Candlestick",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 180,
+          "override_max_value": false,
+          "max_value": 200,
+          "override_weight": false,
+          "weight": 1.28
+        }
+      },
+      {
+        "key": "Undelivered Letter 1",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 50,
+          "override_max_value": false,
+          "max_value": 80,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Undelivered Letter 2",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 50,
+          "override_max_value": false,
+          "max_value": 80,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Undelivered Letter 3",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 50,
+          "override_max_value": false,
+          "max_value": 80,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Undelivered Letter 4",
+        "value": {
+          "active": false,
+          "override_min_value": false,
+          "min_value": 50,
+          "override_max_value": false,
+          "max_value": 80,
+          "override_weight": false,
+          "weight": 1.0
+        }
+      },
+      {
+        "key": "Vase",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 90,
+          "override_max_value": false,
+          "max_value": 130,
+          "override_weight": false,
+          "weight": 1.12
+        }
+      },
+      {
+        "key": "Weezer Guitar",
+        "value": {
+          "active": true,
+          "override_min_value": false,
+          "min_value": 240,
+          "override_max_value": false,
+          "max_value": 320,
+          "override_weight": false,
+          "weight": 1.3
         }
       }
     ],

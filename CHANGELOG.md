@@ -1,3 +1,22 @@
+## 24.3.3002
+#### Mod(s) Added:
+- __LethalLevelLoader__ 1.1.6.
+- __Atlas_Abyss__ 1.1.8. Dark spooky chasm to explore.
+- __StarlancerAIFix__ 3.3.0.
+- __LCMaxSoundsFix__ 1.1.0.
+- __LethalExpansionCore__ 1.3.15.
+- __Polarus__ 2.2.0. Cold planet to explore.
+- __Acidir__ 4.2.1. Dark spooky planet to explore.
+- __Scoopy's Variety Mod__ 1.2.0. New interiors that can occasionally generate.
+
+#### Mod(s) Updated: 
+- __CullFactory__ to 0.9.2.
+- __LethalCompany InputUtils__ to 0.7.1.
+- __LethalLib__ to 0.14.3.
+
+#### Configurations:
+- Remove lockpicker from store as LGU has a player upgrade that allows a minigame to pick locks.
+
 ## 24.3.3001
 #### Mod(s) Updated: 
 - __AdvancedCompany__ to 1.1.14.
