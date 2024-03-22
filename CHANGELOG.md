@@ -2,19 +2,23 @@
 #### Mod(s) Added:
 - __LateCompany__ 1.0.12.
 - __MoreItems__ 1.0.2.
-- __HotbarPlus__ 1.5.9.
+- __HotbarPlus__ 1.5.10.
 - __MeteoMultiplier__ 1.1.3.
 - __FlashlightFix__ 1.1.2.
 - __FlashlightToggle__ 1.5.0.
 - __VoiceHUD__ 1.0.4. To show when your mic is picking up crusty cheeto fingers on the keyboard. The dogs like cheetos.
 - __ToggleMute__ 1.3.1. Enjoy your cheetos in peace.
 - __NutcrackerFixes__ 1.2.2. Fixes desyncs related to the nutcracker and shotgun.
-- __AsyncLoggers__ 1.2.7. Might keep the game from hanging on logging events?
+- __AsyncLoggers__ 1.3.0. Might keep the game from hanging on logging events?
 - __FixRPCLag__ 1.0.1. More log lag fixing.
 - __DissonanceLagFix__ 1.0.0. More lag fixing related to audio.
 
 #### Mod(s) Updated: 
 - __LethalLib__ to 0.14.4.
+- __Polarus__ to 2.3.4.
+- __CullFactory__ to 0.9.3.
+- __Lategame Upgrades__ to 3.4.2.
+- __5andwiches Closet__ to 2.0.2.
 
 #### Mod(s) Removed:
 - __AdvancedCompany__ no longer hosted on Thunderstore.
