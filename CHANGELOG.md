@@ -1,3 +1,12 @@
+## 24.3.3005
+#### Mod(s) Updated:
+- __Lategame Upgrades__ to 3.4.3.
+- __Acidir__ to 4.2.3.
+- __LethalThings__ to 0.10.2
+- __LateCompany__ to 1.0.13.
+- __HotbarPlus__ to 1.5.11.
+- __AsyncLoggers__ to 1.4.0.
+
 ## 24.3.3004
 #### Mod(s) Added:
 - __LateCompany__ 1.0.12.
@@ -13,7 +22,7 @@
 - __FixRPCLag__ 1.0.1. More log lag fixing.
 - __DissonanceLagFix__ 1.0.0. More lag fixing related to audio.
 
-#### Mod(s) Updated: 
+#### Mod(s) Updated:
 - __LethalLib__ to 0.14.4.
 - __Polarus__ to 2.3.4.
 - __CullFactory__ to 0.9.3.
@@ -28,7 +37,7 @@
 - Lowered the chance of sewer interior.
 
 ## 24.3.3003
-#### Mod(s) Updated: 
+#### Mod(s) Updated:
 - __Polarus__ to 2.2.1.
 
 ## 24.3.3002
@@ -42,7 +51,7 @@
 - __Acidir__ 4.2.1. Dark spooky planet to explore.
 - __Scoopy's Variety Mod__ 1.2.0. New interiors that can occasionally generate.
 
-#### Mod(s) Updated: 
+#### Mod(s) Updated:
 - __CullFactory__ to 0.9.2.
 - __LethalCompany InputUtils__ to 0.7.1.
 - __LethalLib__ to 0.14.3.
@@ -51,7 +60,7 @@
 - Remove lockpicker from store as LGU has a player upgrade that allows a minigame to pick locks.
 
 ## 24.3.3001
-#### Mod(s) Updated: 
+#### Mod(s) Updated:
 - __AdvancedCompany__ to 1.1.14.
 - __Lategame Upgrades__ to 3.3.1.
 - __MoreMaterials__ to 1.3.2.
