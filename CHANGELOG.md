@@ -1,3 +1,10 @@
+## 24.3.3006
+#### Mod(s) Updated:
+- __LethalConfig__ to 1.4.0.
+
+#### Mod(s) Added:
+- __TerminalPlus__ 0.2.2.
+
 ## 24.3.3005
 #### Mod(s) Updated:
 - __Lategame Upgrades__ to 3.4.3.
