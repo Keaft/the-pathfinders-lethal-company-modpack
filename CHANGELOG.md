@@ -1,3 +1,11 @@
+## 24.3.3007
+#### Mod(s) Updated:
+- __AsyncLoggers__ to 1.5.1.
+- __More_Suits__ to 1.4.2.
+
+#### Mod(s) Added:
+
+
 ## 24.3.3006
 #### Mod(s) Updated:
 - __LethalConfig__ to 1.4.0.
