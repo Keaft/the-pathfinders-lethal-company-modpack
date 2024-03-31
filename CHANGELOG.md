@@ -1,3 +1,8 @@
+## 24.3.3008
+
+#### Configurations:
+- Set TerminalPlus sorting to Price be default.
+
 ## 24.3.3007
 This Update tries to focus on the looting experience, to bring it more in line with a vanilla experience.
 Developement notes: It's somewhat likely that I'll remove some moons and interiors soon as they struggle in regards to looting.
