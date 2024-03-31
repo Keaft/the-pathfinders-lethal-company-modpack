@@ -1,4 +1,7 @@
 ## 24.3.3007
+This Update tries to focus on the looting experience, to bring it more in line with a vanilla experience.
+Developement notes: It's somewhat likely that I'll remove some moons and interiors soon as they struggle in regards to looting.
+
 #### Mod(s) Updated:
 - __AsyncLoggers__ to 1.6.1.
 - __More_Suits__ to 1.4.3.
@@ -9,9 +12,15 @@
 
 #### Mod(s) Added:
 - __LethalUtilities__ 1.2.21. Gives more knobs to turn for balance.
+- __PsychSanctum__ 0.3.1. New moon to try.
+- __Dantor-Dantors_Mental_Hospital__ 1.2.2. New interior to match the moon.
 
 #### Configurations:
 - Adjusted starting money to change with total players.
+- Tweaked scrap spawn rates and values. Hopefully it'll feel adequetly rewarding now.
+- Lowered Sewer interior chance and limited spawning to basic tier moons.
+- Lowered Castle interior chance and limited spawning to mid tier moons.
+- Set Mental Hospital interior to only spawn on PsychSanctum to test if it works in the pack.
 
 ## 24.3.3006
 #### Mod(s) Updated:
