@@ -10,6 +10,9 @@
 #### Mod(s) Added:
 - __LethalUtilities__ 1.2.21. Gives more knobs to turn for balance.
 
+#### Configurations:
+- Adjusted starting money to change with total players.
+
 ## 24.3.3006
 #### Mod(s) Updated:
 - __LethalConfig__ to 1.4.0.
