@@ -1,10 +1,14 @@
 ## 24.3.3007
 #### Mod(s) Updated:
-- __AsyncLoggers__ to 1.5.1.
-- __More_Suits__ to 1.4.2.
+- __AsyncLoggers__ to 1.6.1.
+- __More_Suits__ to 1.4.3.
+- __Lategame Upgrades__ to 3.4.4.
+- __TerminalPlus__ to 1.0.0.
+- __LethalLib__ to 0.15.0.
+- __LethalCompany InputUtils__ to 0.7.3.
 
 #### Mod(s) Added:
-
+- __LethalUtilities__ 1.2.21. Gives more knobs to turn for balance.
 
 ## 24.3.3006
 #### Mod(s) Updated:
