@@ -2,6 +2,7 @@
 
 #### Configurations:
 - Set TerminalPlus sorting to Price be default.
+- Remove additional money gain on player join.
 
 ## 24.3.3007
 This Update tries to focus on the looting experience, to bring it more in line with a vanilla experience.
