@@ -1,3 +1,14 @@
+## 24.3.3009
+
+#### Mod(s) Updated:
+- __GeneralImprovements__ to 1.1.12.
+- __HotbarPlus__ to 1.6.1.
+- __Lategame Upgrades__ to 3.5.4.
+- __LethalLib__ to 0.15.1.
+- __PsychSanctum__ 0.3.2.
+- __TerminalPlus__ 1.0.2.
+- __TooManySuits__ 1.0.6.
+
 ## 24.3.3008
 
 #### Configurations:
