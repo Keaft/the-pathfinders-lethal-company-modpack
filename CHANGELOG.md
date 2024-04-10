@@ -7,7 +7,10 @@
 - __LethalLib__ to 0.15.1.
 - __PsychSanctum__ 0.3.2.
 - __TerminalPlus__ 1.0.2.
-- __TooManySuits__ 1.0.6.
+- __TooManySuits__ 1.0.7.
+- __CullFactory__ to 1.0.0.
+- __AsyncLoggers__ to 1.6.2.
+- __StarlancerAIFix__ 3.4.0.
 
 ## 24.3.3008
 
