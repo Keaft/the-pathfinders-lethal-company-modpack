@@ -1,14 +1,14 @@
-## 24.3.3009
+## 24.4.1
 
 #### Mod(s) Updated:
 - __GeneralImprovements__ to 1.1.12.
 - __HotbarPlus__ to 1.6.1.
-- __Lategame Upgrades__ to 3.5.4.
+- __Lategame Upgrades__ to 3.5.5.
 - __LethalLib__ to 0.15.1.
-- __PsychSanctum__ 0.3.2.
+- __PsychSanctum__ 0.3.4.
 - __TerminalPlus__ 1.0.2.
-- __TooManySuits__ 1.0.7.
-- __CullFactory__ to 1.0.0.
+- __TooManySuits__ 1.0.8.
+- __CullFactory__ to 1.0.3.
 - __AsyncLoggers__ to 1.6.2.
 - __StarlancerAIFix__ 3.4.0.
 
