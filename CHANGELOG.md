@@ -1,16 +1,24 @@
 ## 24.4.1
 
 #### Mod(s) Updated:
+- __AlwaysHearActiveWalkies__ to 1.4.5.
+- __AsyncLoggers__ to 1.6.2.
+- __CullFactory__ to 1.0.4.
 - __GeneralImprovements__ to 1.1.12.
 - __HotbarPlus__ to 1.6.1.
-- __Lategame Upgrades__ to 3.5.5.
+- __Lategame Upgrades__ to 3.5.7.
+- __LethalCompany InputUtils__ to 0.7.4.
 - __LethalLib__ to 0.15.1.
-- __PsychSanctum__ 0.3.4.
-- __TerminalPlus__ 1.0.2.
-- __TooManySuits__ 1.0.8.
-- __CullFactory__ to 1.0.3.
-- __AsyncLoggers__ to 1.6.2.
-- __StarlancerAIFix__ 3.4.0.
+- __LethalThings__ to 0.10.3.
+- __MoreCompany__ to 1.9.0.
+- __PsychSanctum__ to 0.3.4.
+- __StarlancerAIFix__ to 3.5.0.
+- __SuitSaver__ to 1.1.5.
+- __TerminalPlus__ to 1.0.2.
+- __TooManySuits__ to 1.0.8.
+
+#### Mod(s) Removed:
+- __NutcrackerFixes__ broken, hopefully no longer needed.
 
 ## 24.3.3008
 
