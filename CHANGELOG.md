@@ -1,3 +1,18 @@
+## 24.4.2
+#### Mod(s) Updated:
+- __BetterEXP__ to 2.0.0
+- __GeneralImprovements__ to 1.2.0.
+- __LethalConfig__ to 1.4.1.
+- __LethalThings__ to 0.10.4.
+- __StarlancerAIFix__ to 3.5.1.
+- __SuitSaver__ to 1.2.0.
+- __TerminalAPI__ to 1.5.3.
+- __Terminal Clock__ to 1.0.6.
+- __HotbarPlus__ to 1.6.2.
+
+#### Mod(s) Removed:
+- __FlashlightFix__ now covered by GeneralImprovements.
+
 ## 24.4.1
 
 #### Mod(s) Updated:
@@ -17,7 +32,8 @@
 
 #### Mod(s) Removed:
 - __NutcrackerFixes__ broken, hopefully no longer needed.
------ Temporary Removals -----
+
+####----- Temporary Removals -----
 - __Atlas_Abyss__
 - __Dantors_Mental_Hospital__
 - __LethalLevelLoader__
