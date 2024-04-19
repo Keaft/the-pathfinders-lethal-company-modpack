@@ -1,4 +1,8 @@
 ## 24.4.2
+
+#### Configuration(s):
+- Show moon price in terminal. This will be enabled until we can get TerminalPlus back.
+
 #### Mod(s) Updated:
 - __BetterEXP__ to 2.0.0
 - __GeneralImprovements__ to 1.2.0.
