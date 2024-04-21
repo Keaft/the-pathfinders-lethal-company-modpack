@@ -1,3 +1,15 @@
+## 24.4.3
+
+#### Configuration(s):
+- Reverted moon price in terminal through GeneralImprovements with the reintroduction of TerminalPlus.
+
+#### Mod(s) Added:
+- __TerminalPlus__ 1.1.1.
+
+#### Mod(s) Updated:
+- __GeneralImprovements__ to 1.2.1.
+- __TooManySuits__ to 1.0.9.
+
 ## 24.4.2
 
 #### Configuration(s):
