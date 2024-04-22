@@ -3,6 +3,9 @@
 #### Mod(s) Updated:
 - __HotbarPlus__ to 1.6.3.
 
+#### Mod(s) Removed:
+- __TerminalClock__
+
 ## 24.4.3
 
 #### Configuration(s):
