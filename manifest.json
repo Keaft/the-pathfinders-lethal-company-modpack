@@ -1,6 +1,6 @@
 {
     "name": "The_Pathfinders_Modpack",
-    "version_number": "24.4.3",
+    "version_number": "24.4.4",
     "website_url": "https://github.com/Keaft/the-pathfinders-lethal-company-modpack",
     "description": "A modpack that tries to stay true to the original feel with some minor content additions and quality of life adjustments.",
     "dependencies": [
@@ -32,7 +32,7 @@
         "Pooble-LCBetterSaves-1.7.3",
         "malco-Lategame_Upgrades-3.5.7",
         "anormaltwig-LateCompany-1.0.13",
-        "FlipMods-HotbarPlus-1.6.2",
+        "FlipMods-HotbarPlus-1.6.3",
         "Evaisa-HookGenPatcher-0.0.5",
         "Monkeytype-HideChat-1.0.0",
         "Sligili-HDLethalCompany-1.5.6",

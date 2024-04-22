@@ -1,3 +1,8 @@
+## 24.4.4
+
+#### Mod(s) Updated:
+- __HotbarPlus__ to 1.6.3.
+
 ## 24.4.3
 
 #### Configuration(s):
