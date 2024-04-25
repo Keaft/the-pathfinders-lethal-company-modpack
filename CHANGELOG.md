@@ -1,10 +1,17 @@
 ## 24.4.4
 
+### Mod(s) Added:
+- __LethalLevelLoader__ 1.2.1. Now compatible with v50!
+
 #### Mod(s) Updated:
 - __HotbarPlus__ to 1.6.3.
+- __MoreCompany__ to 1.9.1.
+- __StarlancerAIFix__ to 3.6.0.
+- __CullFactory__ to 1.1.0.
+- __GeneralImprovements__ to 1.2.2.
 
 #### Mod(s) Removed:
-- __TerminalClock__
+- __TerminalClock__ as there is a duplicate clock in the terminal.
 
 ## 24.4.3
 
