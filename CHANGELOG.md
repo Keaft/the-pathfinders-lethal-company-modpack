@@ -1,5 +1,8 @@
 ## 24.4.4
 
+#### Configuration(s):
+- Regenerated GeneralImprovements config.
+
 ### Mod(s) Added:
 - __LethalLevelLoader__ 1.2.1. Now compatible with v50!
 
