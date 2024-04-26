@@ -3,20 +3,21 @@
 #### Configuration(s):
 - Regenerated GeneralImprovements config.
 
-### Mod(s) Added:
-- __LethalLevelLoader__ 1.2.1. Now compatible with v50!
-
 #### Mod(s) Updated:
 - __HotbarPlus__ to 1.6.3.
 - __MoreCompany__ to 1.9.1.
 - __StarlancerAIFix__ to 3.6.0.
 - __CullFactory__ to 1.1.0.
-- __GeneralImprovements__ to 1.2.2.
+- __GeneralImprovements__ to 1.2.3.
+- __LethalConfig__ to 1.4.2.
 
 #### Mod(s) Removed:
 - __TerminalClock__ as there is a duplicate clock in the terminal.
 
 ## 24.4.3
+The company has been able to patch the OS of the Terminal giving a return of the nicer functionality. The company strongly encourages safe computing habits so the Proxy/Firewall combo can properly restrict improper IP access facilitating a more secure SSH with it's Honeypot to capture would-be infiltrators into the retro-encabulator without side fumbling into FTP backdoor BBQ TGIFs and ROFLMAOs. Thank you for understanding.
+
+Also you'll Need to delete and recreate your r2modman profiles.
 
 #### Configuration(s):
 - Reverted moon price in terminal through GeneralImprovements with the reintroduction of TerminalPlus.
