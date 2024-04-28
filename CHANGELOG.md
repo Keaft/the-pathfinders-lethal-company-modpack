@@ -14,6 +14,10 @@
 #### Mod(s) Removed:
 - __TerminalClock__ as there is a duplicate clock in the terminal.
 - __TerminalApi__
+####----- Temporary Removals -----
+- __LethalExpansionCore__
+- __Polarus__
+- __Acidir__
 
 ## 24.4.3
 The company has been able to patch the OS of the Terminal giving a return of the nicer functionality. The company strongly encourages safe computing habits so the Proxy/Firewall combo can properly restrict improper IP access facilitating a more secure SSH with it's Honeypot to capture would-be infiltrators into the retro-encabulator without side fumbling into FTP backdoor BBQ TGIFs and ROFLMAOs. Thank you for understanding.
