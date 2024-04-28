@@ -4,7 +4,7 @@
 - Regenerated GeneralImprovements config.
 
 #### Mod(s) Updated:
-- __HotbarPlus__ to 1.6.3.
+- __HotbarPlus__ to 1.6.4.
 - __MoreCompany__ to 1.9.1.
 - __StarlancerAIFix__ to 3.6.0.
 - __CullFactory__ to 1.1.0.
