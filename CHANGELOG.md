@@ -1,21 +1,44 @@
 ## 24.4.4
+The company required some serious restructuring and management. As such old technology ~~and employees~~ will be ***terminated*** effectively immediately.
 
 #### Configuration(s):
 - Regenerated GeneralImprovements config.
+- Re-enabled moon prices in terminal with the removal of TerminalPlus.
 
 #### Mod(s) Updated:
 - __HotbarPlus__ to 1.6.4.
 - __MoreCompany__ to 1.9.1.
-- __StarlancerAIFix__ to 3.6.0.
 - __CullFactory__ to 1.1.0.
 - __GeneralImprovements__ to 1.2.3.
 - __LethalConfig__ to 1.4.2.
 - __Lategame Upgrades__ to 3.6.1.
 
+#### Mod(s) Added:
+- __ConfigurableCompany__ 3.4.0.
+- __LethalCompanyVariables__ 2.3.2.
+- __LethalLevelLoader__ 1.2.2.
+- __LethalModDataLib__ 1.2.2
+- __Atlas_Abyss__ 1.1.8.
+- __Dantors_Mental_Hospital__ 1.2.2.
+- __PsychSanctum__ 0.5.4.
+- __Scoopys_Variety_Mod__ 1.2.0.
+- __FixPluginTypesSerialization__ 1.1.1.
+- __CSync__ 4.1.0.
+- __TooManyEmotes__ 2.1.14.
+- __TooManyEmotesScrap__ 1.0.5.
+- __JustLandAlready__ 1.0.0.
+
 #### Mod(s) Removed:
 - __TerminalClock__ as there is a duplicate clock in the terminal.
-- __TerminalApi__
-####----- Temporary Removals -----
+- __TerminalApi__ api for TerminalClock
+- __QuickRestart__
+- __EmployeeAssignments__
+- __StarlancerAIFix__
+- __EmoteWhileInMotion__
+- __MoreItems__
+- __LCMaxSoundsFix__
+- __LethalUtilities__
+- __TerminalPlus__
 - __LethalExpansionCore__
 - __Polarus__
 - __Acidir__
