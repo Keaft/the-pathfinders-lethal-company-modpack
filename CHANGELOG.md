@@ -2,8 +2,11 @@
 The company required some serious restructuring and management. As such old technology ~~and employees~~ will be ***terminated*** effectively immediately.
 
 #### Configuration(s):
-- Regenerated GeneralImprovements config.
+- Regenerated a bunch of configs.
 - Re-enabled moon prices in terminal with the removal of TerminalPlus.
+- Efficient Engines upgrade gives 10% more discount to moon routing per additional level.
+- Landing Thrusters upgrade no longer affects departing speed.
+- Slightly more health gained from Stimpack Upgrade
 
 #### Mod(s) Updated:
 - __HotbarPlus__ to 1.6.4.
@@ -27,6 +30,7 @@ The company required some serious restructuring and management. As such old tech
 - __TooManyEmotes__ 2.1.14.
 - __TooManyEmotesScrap__ 1.0.5.
 - __JustLandAlready__ 1.0.0.
+- __AutoCompanyBuilding__ 1.2.0.
 
 #### Mod(s) Removed:
 - __TerminalClock__ as there is a duplicate clock in the terminal.
