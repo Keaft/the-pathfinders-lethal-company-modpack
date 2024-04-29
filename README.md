@@ -7,9 +7,8 @@
  
  If you have saves that you wish to maintain, take a backup before installing this modpack.
  
- I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D Welp... quickly messed that up. I'll probably go with [year].[month].[update_number]
+ I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D Versioning will be as follows: [year].[month].[update_number]
  
 #### Known issue(s):
-- On startup **EmployeeAssignments** says it's out of date, but it's not. :D
 - EXP going down. This occurs when you lose a value of scrap from your ship (keys, stop signs, shotguns, or any other scrap) greater than what you gain. This is a vanilla bug in which scrapCollectedInLevel is divided by totalScrapValueInLevel resulting in a negative value. Or so it seems :)
-- It seems that sometimes items go invisible. Still carriable and pingable, just invisible.
+- Inable to route to the company. AutoCompanyBuilding is installed specifically to bandaid this.
