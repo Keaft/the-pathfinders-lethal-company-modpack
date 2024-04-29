@@ -1,3 +1,5 @@
+## 24.4.5
+
 ## 24.4.4
 The company required some serious restructuring and management. As such old technology ~~and employees~~ will be ***terminated*** effectively immediately.
 
