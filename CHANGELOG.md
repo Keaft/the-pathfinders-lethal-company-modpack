@@ -10,6 +10,7 @@
 - __CullFactory__ to 1.1.0.
 - __GeneralImprovements__ to 1.2.3.
 - __LethalConfig__ to 1.4.2.
+- __Lategame Upgrades__ to 3.6.1.
 
 #### Mod(s) Removed:
 - __TerminalClock__ as there is a duplicate clock in the terminal.
