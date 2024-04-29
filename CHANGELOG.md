@@ -26,7 +26,7 @@ The company required some serious restructuring and management. As such old tech
 - __PsychSanctum__ 0.5.4.
 - __Scoopys_Variety_Mod__ 1.2.0.
 - __FixPluginTypesSerialization__ 1.1.1.
-- __CSync__ 4.1.0.
+- __CSync__ 5.0.0.
 - __TooManyEmotes__ 2.1.14.
 - __TooManyEmotesScrap__ 1.0.5.
 - __JustLandAlready__ 1.0.0.
