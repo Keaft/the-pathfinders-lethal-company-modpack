@@ -31,6 +31,8 @@ The company required some serious restructuring and management. As such old tech
 - __TooManyEmotesScrap__ 1.0.5.
 - __JustLandAlready__ 1.0.0.
 - __AutoCompanyBuilding__ 1.2.0.
+- __ScarletDevilMansion__ 1.3.11.
+- __OdinSerializer__ 2022.11.9.
 
 #### Mod(s) Removed:
 - __TerminalClock__ as there is a duplicate clock in the terminal.
