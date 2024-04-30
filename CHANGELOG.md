@@ -1,5 +1,8 @@
 ## 24.4.5
 
+#### Mod(s) Updated:
+- __Lategame Upgrades__ to 3.6.2.
+
 ## 24.4.4
 The company required some serious restructuring and management. As such old technology ~~and employees~~ will be ***terminated*** effectively immediately.
 
