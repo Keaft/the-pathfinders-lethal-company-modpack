@@ -1,8 +1,10 @@
 ## 24.4.5
 
 #### Mod(s) Added:
-- __Interactive Terminal API__ 1.0.0.
-- __LethalFixes__ 1.0.1.
+- __Interactive Terminal API__ 1.0.0. Api, now required for Lategame Upgrades.
+- __LethalFixes__ 1.0.1. Fixes for various bugs.
+- __TerminalFormatter__ 0.2.7. Clearer terminal.
+- __MrovLib__ 0.0.6. Library for Terminal Formatter.
 
 #### Mod(s) Updated:
 - __Lategame Upgrades__ to 3.6.4.
