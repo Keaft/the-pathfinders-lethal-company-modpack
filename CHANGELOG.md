@@ -2,6 +2,7 @@
 
 #### Mod(s) Added:
 - __Interactive Terminal API__ 1.0.0.
+- __LethalFixes__ 1.0.1.
 
 #### Mod(s) Updated:
 - __Lategame Upgrades__ to 3.6.4.
