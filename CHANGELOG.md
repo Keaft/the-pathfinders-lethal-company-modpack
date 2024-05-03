@@ -1,7 +1,12 @@
 ## 24.4.5
 
 #### Mod(s) Updated:
-- __Lategame Upgrades__ to 3.6.2.
+- __Lategame Upgrades__ to 3.6.4.
+- __CullFactory__ to 1.1.1.
+- __GeneralImprovements__ to 1.2.4.
+- __PsychSanctum__ to 0.6.0.
+- __TooManyEmotes__ to 2.1.15.
+- __ScarletDevilMansion__ 1.3.13.
 
 ## 24.4.4
 The company required some serious restructuring and management. As such old technology ~~and employees~~ will be ***terminated*** effectively immediately.
