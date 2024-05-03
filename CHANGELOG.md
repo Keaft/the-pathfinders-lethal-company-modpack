@@ -1,5 +1,8 @@
 ## 24.4.5
 
+#### Mod(s) Added:
+- __Interactive Terminal API__ 1.0.0.
+
 #### Mod(s) Updated:
 - __Lategame Upgrades__ to 3.6.4.
 - __CullFactory__ to 1.1.1.
