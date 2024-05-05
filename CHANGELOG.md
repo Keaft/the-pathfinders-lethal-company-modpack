@@ -1,5 +1,12 @@
 ## 24.4.6
 
+#### Mod(s) Updated:
+- __BetterSprayPaint__ to 2.0.3.
+- __PsychSanctum__ to 0.6.3.
+- __ScarletDevilMansion__ to 1.3.14.
+- __TooManyEmotes__ to 2.1.16.
+- __LethalFixes__ to 1.0.4.
+
 ## 24.4.5
 
 #### Mod(s) Added:
@@ -14,7 +21,7 @@
 - __GeneralImprovements__ to 1.2.4.
 - __PsychSanctum__ to 0.6.0.
 - __TooManyEmotes__ to 2.1.15.
-- __ScarletDevilMansion__ 1.3.13.
+- __ScarletDevilMansion__ to 1.3.13.
 
 ## 24.4.4
 The company required some serious restructuring and management. As such old technology ~~and employees~~ will be ***terminated*** effectively immediately.
