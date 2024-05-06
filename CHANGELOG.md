@@ -1,5 +1,9 @@
 ## 24.5.0
 
+#### Mod(s) Updated:
+- __Lategame Upgrades__ to 3.6.5.
+- __Interactive Terminal API__ to 1.1.0.
+- __LethalFixes__ to 1.0.5.
 
 ## 24.4.6
 
