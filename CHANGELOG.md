@@ -1,5 +1,9 @@
 ## 24.5.0
 
+#### Configuration(s):
+* Adjusted TooManyEmotes to be persistent between saves and shared.
+* Adjusted the Pathfinders Standard preset to have slightly less monsters, and more starting credits.
+
 #### Mod(s) Updated:
 - __Lategame Upgrades__ to 3.6.5.
 - __Interactive Terminal API__ to 1.1.0.
