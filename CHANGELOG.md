@@ -1,13 +1,22 @@
 ## 24.5.0
 
 #### Configuration(s):
-* Adjusted TooManyEmotes to be persistent between saves and shared.
+* Adjusted TooManyEmotes to be persistent between saves.
 * Adjusted the Pathfinders Standard preset to have slightly less monsters, and more starting credits.
 
 #### Mod(s) Updated:
 - __Lategame Upgrades__ to 3.6.5.
 - __Interactive Terminal API__ to 1.1.0.
 - __LethalFixes__ to 1.0.5.
+- __BetterEXP__ to 2.1.0.
+- __GeneralImprovements__ to 1.2.5.
+- __PsychSanctum__ to 0.9.5.
+- __ScarletDevilMansion__ to 1.3.15.
+- __TooManyEmotes__ to 2.1.17.
+- __TerminalFormatter__ to 0.2.9.
+
+#### Mod(s) Removed:
+- __SuitSaver__ now handled by GeneralImprovements.
 
 ## 24.4.6
 
