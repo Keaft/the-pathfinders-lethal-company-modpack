@@ -9,11 +9,14 @@
 - __Interactive Terminal API__ to 1.1.0.
 - __LethalFixes__ to 1.0.5.
 - __BetterEXP__ to 2.1.0.
-- __GeneralImprovements__ to 1.2.6.
+- __GeneralImprovements__ to 1.2.7.
 - __PsychSanctum__ to 0.9.5.
 - __ScarletDevilMansion__ to 1.3.15.
 - __TooManyEmotes__ to 2.1.17.
 - __TerminalFormatter__ to 0.2.9.
+- __BetterSprayPaint__ to 2.0.4.
+- __HotbarPlus__ to 1.6.5.
+- __OpenBodyCams__ to 2.0.3.
 
 #### Mod(s) Removed:
 - __SuitSaver__ now handled by GeneralImprovements.
