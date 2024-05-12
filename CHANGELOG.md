@@ -7,7 +7,7 @@
 #### Mod(s) Updated:
 - __Lategame Upgrades__ to 3.6.5.
 - __Interactive Terminal API__ to 1.1.0.
-- __LethalFixes__ to 1.0.5.
+- __LethalFixes__ to 1.0.6.
 - __BetterEXP__ to 2.1.0.
 - __GeneralImprovements__ to 1.2.7.
 - __PsychSanctum__ to 0.9.5.
@@ -16,7 +16,7 @@
 - __TerminalFormatter__ to 0.2.9.
 - __BetterSprayPaint__ to 2.0.4.
 - __HotbarPlus__ to 1.6.5.
-- __OpenBodyCams__ to 2.0.3.
+- __OpenBodyCams__ to 2.0.4.
 
 #### Mod(s) Removed:
 - __SuitSaver__ now handled by GeneralImprovements.
