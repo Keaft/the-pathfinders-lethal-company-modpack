@@ -1,5 +1,8 @@
 ## 24.5.1
 
+#### Mod(s) Updated:
+- __MrovLib__ to 0.0.7.
+
 ## 24.5.0
 
 #### Configuration(s):
