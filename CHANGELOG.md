@@ -2,6 +2,12 @@
 
 #### Mod(s) Updated:
 - __MrovLib__ to 0.0.7.
+- __OpenBodyCams__ to 2.1.0.
+- __GeneralImprovements__ to 1.2.8.
+- __HotbarPlus__ to 1.6.6.
+- __TerminalFormatter__ to 0.2.10.
+- __CullFactory__ to 1.1.2.
+- __MrovLib__ to 0.0.9.
 
 ## 24.5.0
 
