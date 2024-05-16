@@ -9,6 +9,7 @@
 - __CullFactory__ to 1.1.2.
 - __MrovLib__ to 0.0.9.
 - __LethelLevelLoader__ to 1.2.3.
+- __ScarletDevilMansion__ to 1.3.16.
 
 ## 24.5.0
 
