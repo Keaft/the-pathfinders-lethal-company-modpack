@@ -2,7 +2,7 @@
 
 #### Mod(s) Updated:
 - __MrovLib__ to 0.0.7.
-- __OpenBodyCams__ to 2.1.0.
+- __OpenBodyCams__ to 2.1.2.
 - __GeneralImprovements__ to 1.2.8.
 - __HotbarPlus__ to 1.6.7.
 - __TerminalFormatter__ to 0.2.10.
@@ -10,6 +10,7 @@
 - __MrovLib__ to 0.0.9.
 - __LethelLevelLoader__ to 1.2.3.
 - __ScarletDevilMansion__ to 1.3.16.
+- __LethalFixes__ to 1.0.8.
 
 ## 24.5.0
 
