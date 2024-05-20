@@ -4,6 +4,7 @@
 - __LethalLevelLoader__ to 1.2.2.
 
 ## 24.5.1
+The Company is [glad] to have such a [great asset]. Your [valued] service is [acceptable]. {$user.callNameFromDB}, you are expected to arrive at [6:00 PM MST] for your shift. Be advised that the danger levels are currently {$danger.calculatedThreatLevel}.
 
 #### Mod(s) Updated:
 - __CSync__ to 5.0.1.
