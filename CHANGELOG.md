@@ -1,5 +1,8 @@
 ## 24.5.2
 
+#### Mod(s) Added:
+- __LethalLevelLoaderCompanyFixer__ 2.0.0.
+
 ## 24.5.1
 
 #### Mod(s) Updated:
