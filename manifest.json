@@ -1,6 +1,6 @@
 {
     "name": "The_Pathfinders_Modpack",
-    "version_number": "24.5.2",
+    "version_number": "24.5.3",
     "website_url": "https://github.com/Keaft/the-pathfinders-lethal-company-modpack",
     "description": "A modpack that tries to stay true to the original feel with some minor content additions and quality of life adjustments.",
     "dependencies": [
@@ -26,7 +26,7 @@
         "MaxWasUnavailable-LethalModDataLib-1.2.2",
         "Evaisa-LethalLib-0.15.1",
         "IAmBatby-LethalLevelLoader-1.2.2",
-        "Dev1A3-LethalFixes-1.0.8",
+        "Dev1A3-LethalFixes-1.0.9",
         "AinaVT-LethalConfig-1.4.2",
         "AMRV-LethalCompanyVariables-2.3.2",
         "Rune580-LethalCompany_InputUtils-0.7.4",

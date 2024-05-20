@@ -1,3 +1,8 @@
+## 24.5.3
+
+#### Mod(s) Updated:
+- __LethalFixes__ to 1.0.9.
+
 ## 24.5.2
 
 #### Mod(s) Downgradded:
