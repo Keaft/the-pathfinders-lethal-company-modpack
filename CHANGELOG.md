@@ -1,7 +1,7 @@
 ## 24.5.2
 
-#### Mod(s) Added:
-- __LethalLevelLoaderCompanyFixer__ 2.0.0.
+#### Mod(s) Downgradded:
+- __LethalLevelLoader__ to 1.2.2.
 
 ## 24.5.1
 

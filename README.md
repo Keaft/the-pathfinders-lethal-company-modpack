@@ -3,7 +3,8 @@
  
  An update to this pack requires recreating your r2modman profile only in the case where a mod is removed. Mod additions or configuration changes shouldn't require recreating your profile.
  
- If available, you should always update every mod after opening the pack in r2modman.
+ [THIS INFORMATION IS FOR THE TIME BEING INCORRECT] If available, you should always update every mod after opening the pack in r2modman.
+ There are ongoing issues with some mods and updating has had a streak of causing problems as of late. Do not update mods when starting the profile in r2modman. Always delete and recreate the profile in the event of a Pathfinders Lethal Company Modpack update.
  
  If you have saves that you wish to maintain, take a backup before installing this modpack.
  
