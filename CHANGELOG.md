@@ -1,11 +1,12 @@
 ## 24.5.3
 
 #### Mod(s) Updated:
-- __LethalFixes__ to 1.0.9.
-- __Lategame Upgrades__ to 3.7.0.
+- __LethalFixes__ to 1.1.0.
+- __Lategame Upgrades__ to 3.7.1.
 - __Interactive Terminal API__ to 1.1.1.
 - __LethalLevelLoader__ to 1.2.4.
 - __TerminalFormatter__ to 0.2.11.
+- __PsychSanctum__ to 1.0.0.
 
 ## 24.5.2
 
