@@ -3,7 +3,7 @@
 #### Mod(s) Updated:
 - __Interactive Terminal API__ to 1.1.1.
 - __Lategame Upgrades__ to 3.7.1.
-- __LethalFixes__ to 1.1.0.
+- __LethalFixes__ to 1.1.1.
 - __LethalLevelLoader__ to 1.2.4.
 - __OpenBodyCams__ to 2.2.0.
 - __PsychSanctum__ to 1.0.0.
