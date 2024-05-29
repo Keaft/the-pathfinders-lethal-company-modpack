@@ -1,3 +1,12 @@
+## 24.5.5
+
+#### Mod(s) Updated:
+- __HotbarPlus__ to 1.6.8.
+- __Interactive Terminal API__ to 1.1.2.
+- __Lategame Upgrades__ to 3.7.2.
+- __LethalLib__ to 0.16.0.
+- __TooManyEmotes__ to 2.1.18.
+
 ## 24.5.3
 
 #### Mod(s) Updated:
