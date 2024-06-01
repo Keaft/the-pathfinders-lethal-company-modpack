@@ -1,4 +1,4 @@
-## 24.5.5
+## 24.6.0
 
 #### Mod(s) Updated:
 - __HotbarPlus__ to 1.6.8.
