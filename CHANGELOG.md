@@ -1,3 +1,14 @@
+## 24.6.1
+
+#### Mod(s) Added:
+- __SuitSaver__ 1.2.0. Reintroduced as it's still relevant.
+
+#### Mod(s) Updated:
+- __LethalFixes__ to 1.1.3.
+- __TerminalFormatter__ to 0.2.13.
+- __CullFactory__ to 1.1.3.
+- __TooManyEmotes__ to 2.1.19.
+
 ## 24.6.0
 
 #### Mod(s) Updated:
