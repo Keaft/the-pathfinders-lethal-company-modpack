@@ -12,4 +12,3 @@
  
 #### Known issue(s):
 - EXP going down. This occurs when you lose a value of scrap from your ship (keys, stop signs, shotguns, or any other scrap) greater than what you gain. This is a vanilla bug in which scrapCollectedInLevel is divided by totalScrapValueInLevel resulting in a negative value. Or so it seems :)
-- Inable to route to the company. AutoCompanyBuilding is installed specifically to bandaid this.
