@@ -1,5 +1,8 @@
 ## 24.6.2
 
+#### Configuration(s):
+- Set Suit saving to false in GeneralImprovements in favor of SutiSaver.
+
 #### Mod(s) Updated:
 - __LethalCompany InputUtils__ to 0.7.7.
 
