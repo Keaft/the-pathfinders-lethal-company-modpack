@@ -5,6 +5,7 @@
 
 #### Mod(s) Updated:
 - __LethalCompany InputUtils__ to 0.7.7.
+- __TooManySuits__ to 1.1.0.
 
 #### Mod(s) Added:
 - __ButteryFixes__ 1.3.0.
