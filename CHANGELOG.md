@@ -11,7 +11,7 @@
 - __ButteryFixes__ 1.3.1.
 - __LobbyControl__ 2.4.2.
 - __Matty_Fixes__ 1.0.21.
-- __MeleeFixes__ 1.1.0.
+- __MeleeFixes__ 1.1.1.
 - __JetpackFixes__ 1.1.0.
 - __EnemySoundFixes__ 1.3.0.
 
