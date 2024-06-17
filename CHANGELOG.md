@@ -1,6 +1,19 @@
 ## 24.6.3
 
 
+
+#### Configuration(s):
+- Turned down mob spawn multiplier from 1.05 to 1.01 on the Pathfinders Preset.
+- Regenerated the following configurations:
+    - Default preset.
+    - Lategame Upgrades.
+    - LethalFixes.
+    - TooManyEmotes.
+    - OpenBodyCams.
+- Lategame Upgrades, upgrades have been made generally cheaper.
+- Lategame Upgrades, contracts are now reasonably priced and worth attempting to risk greater reward.
+- Lategame Upgrades, wheelbarrows and shopping carts now carry more with the shopping cart carrying the most.
+
 ## 24.6.2
 
 #### Configuration(s):

@@ -35,7 +35,7 @@
 [lcv_config_enemy-spawn-range-n:0\:10]
 [lcv_config_enemy-spawn-range-d:0\:10]
 [lcv_config_enemy-spawn-multi-n:1]
-[lcv_config_enemy-spawn-multi-p:1.05]
+[lcv_config_enemy-spawn-multi-p:1.01]
 [lcv_config_xp-multi:1]
 [lcv_config_death-penalty:20]
 [lcv_config_time-speed-mode:1]
