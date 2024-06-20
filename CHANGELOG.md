@@ -1,5 +1,9 @@
 ## 24.6.3
 
+#### Mod(s) Updated:
+- __AsyncLoggers__ to 1.6.3.
+- __AutoCompanyBuilding__ to 1.2.1.
+- __LethalFixes__ to 1.1.4.
 
 
 #### Configuration(s):
