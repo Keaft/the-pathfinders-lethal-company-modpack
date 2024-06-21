@@ -4,7 +4,7 @@
 - __AsyncLoggers__ to 1.6.3.
 - __AutoCompanyBuilding__ to 1.2.1.
 - __LethalFixes__ to 1.1.4.
-
+- __EnemySoundFixes__ 1.4.0.
 
 #### Configuration(s):
 - Turned down mob spawn multiplier from 1.05 to 1.01 on the Pathfinders Preset.
