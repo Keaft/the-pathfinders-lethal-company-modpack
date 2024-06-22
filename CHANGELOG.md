@@ -1,16 +1,22 @@
 ## 24.6.4
 
+The Company has detected further contraband as depicted in section 105.2b subsection 4c which indicates that only company approved attire may be worn on company time. The Company had previously seraptitiously removed this contraband in hopes to keep from hurting morale further. Obviously this wasn't enough. If you see your fellow employees engaging in frivolity again, alert your manager *IMMEDIATELY.*
+
 #### Configuration(s):
-- The left big monitor now displays the Internal Cam when no bodycam upgrade, or the target is on the ship.
+- The left big monitor now displays the Internal Cam when no bodycam upgrade, or the bodycam target is on the ship.
+- Emotes are now completely shared to save time waiting for the terminal to become available.
 
 #### Mod(s) Added:
 - LoadstoneNightly 0.1.8. Asynchronously generates the dungeon reducing hitching on world join.
 - EquipmentCompany 1.3.0. Company approved cosmetics.
+- InsomniaxCosmetics 1.2.0.
+- SillyCosmetics 1.8.0.
+- CustomFunSuits 1.8.3.
+- GlowStickSuits 1.0.4.
 
 #### Mod(s) Removed:
 - 5andwiches_Closet as it's no longer hosted on the Thunderstore.
 - JustLandAlready. Hopefully no longer neccessary with LoadstoneNightly.
-
 
 ## 24.6.3
 
