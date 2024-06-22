@@ -1,5 +1,15 @@
 ## 24.6.4
 
+#### Configuration(s):
+- The left big monitor now displays the Internal Cam when no bodycam upgrade, or the target is on the ship.
+
+#### Mod(s) Added:
+- LoadstoneNightly 0.1.8. Asynchronously generates the dungeon reducing hitching on world join.
+- EquipmentCompany 1.3.0. Company approved cosmetics.
+
+#### Mod(s) Removed:
+- 5andwiches_Closet as it's no longer hosted on the Thunderstore.
+- JustLandAlready. Hopefully no longer neccessary with LoadstoneNightly.
 
 
 ## 24.6.3
@@ -39,7 +49,7 @@
 - __JetpackFixes__ 1.1.0.
 - __EnemySoundFixes__ 1.3.0.
 
-#### Mod(s Removed:
+#### Mod(s) Removed:
 - LateCompany, now handled by LobbyControl.
 
 ## 24.6.1
