@@ -8,7 +8,7 @@ The Company has detected further contraband as depicted in section 105.2b subsec
 
 #### Mod(s) Added:
 - LoadstoneNightly 0.1.8. Asynchronously generates the dungeon reducing hitching on world join.
-- EquipmentCompany 1.3.0. Company approved cosmetics.
+- EquipmentCompany 1.3.0. Company approved ~~cosmetics~~ equipment.
 - InsomniaxCosmetics 1.2.0.
 - SillyCosmetics 1.8.0.
 - CustomFunSuits 1.8.3.
