@@ -1,5 +1,9 @@
 ## 24.6.5
 
+#### Mod(s) Updated:
+- __ButteryFixes__ to 1.4.1.
+- __MeleeFixes__ to 1.2.0.
+- __MrovLib__ to 0.0.10.
 
 
 ## 24.6.4
@@ -11,16 +15,16 @@ The Company has detected further contraband as depicted in section 105.2b subsec
 - Emotes are now completely shared to save time waiting for the terminal to become available.
 
 #### Mod(s) Added:
-- LoadstoneNightly 0.1.8. Asynchronously generates the dungeon reducing hitching on world join.
-- EquipmentCompany 1.3.0. Company approved ~~cosmetics~~ equipment.
-- InsomniaxCosmetics 1.2.0.
-- SillyCosmetics 1.8.0.
-- CustomFunSuits 1.8.3.
-- GlowStickSuits 1.0.4.
+- __LoadstoneNightly__ 0.1.8. Asynchronously generates the dungeon reducing hitching on world join.
+- __EquipmentCompany__ 1.3.0. Company approved ~~cosmetics~~ equipment.
+- __InsomniaxCosmetics__ 1.2.0.
+- __SillyCosmetics__ 1.8.0.
+- __CustomFunSuits__ 1.8.3.
+- __GlowStickSuits__ 1.0.4.
 
 #### Mod(s) Removed:
-- 5andwiches_Closet as it's no longer hosted on the Thunderstore.
-- JustLandAlready. Hopefully no longer neccessary with LoadstoneNightly.
+- __5andwiches_Closet__ as it's no longer hosted on the Thunderstore.
+- __JustLandAlready__. Hopefully no longer neccessary with LoadstoneNightly.
 
 ## 24.6.3
 
