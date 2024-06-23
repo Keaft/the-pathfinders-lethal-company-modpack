@@ -10,7 +10,7 @@
 
 ## 24.6.4
 
-The Company has detected further contraband as depicted in section 105.2b subsection 4c which indicates that only company approved attire may be worn on company time. The Company had previously surreptitiously  removed this contraband in hopes to keep from hurting morale further. Obviously this wasn't enough. If you see your fellow employees engaging in frivolity again, alert your manager *IMMEDIATELY.*
+The Company has detected further contraband as depicted in section 105.2b subsection 4c which indicates that only company approved attire may be worn on company time. The Company had previously surreptitiously removed this contraband in hopes to keep from hurting morale further. Obviously this wasn't enough. If you see your fellow employees engaging in frivolity again, alert your manager *IMMEDIATELY.*
 
 #### Configuration(s):
 - The left big monitor now displays the Internal Cam when no bodycam upgrade, or the bodycam target is on the ship.
