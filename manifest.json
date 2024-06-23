@@ -4,7 +4,6 @@
     "website_url": "https://github.com/Keaft/the-pathfinders-lethal-company-modpack",
     "description": "A modpack that tries to stay true to the original feel with some minor content additions and quality of life adjustments.",
     "dependencies": [
-        "5Bit-VoiceHUD-1.0.4",
         "Verity-TooManySuits-1.1.0",
         "FlipMods-TooManyEmotes-2.1.19",
         "FlipMods-TooManyEmotesScrap-1.0.5",

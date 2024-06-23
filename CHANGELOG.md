@@ -5,6 +5,8 @@
 - __MeleeFixes__ to 1.2.0.
 - __MrovLib__ to 0.0.10.
 
+#### Mod(s) Removed:
+- __VoiceHUD__ covered by LethalFixes.
 
 ## 24.6.4
 
