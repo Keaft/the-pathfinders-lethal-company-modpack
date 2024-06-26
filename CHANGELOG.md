@@ -4,6 +4,7 @@
 - __ButteryFixes__ to 1.4.1.
 - __MeleeFixes__ to 1.2.0.
 - __MrovLib__ to 0.0.10.
+- __Lategame_Upgrades__ to 3.8.1.
 
 #### Mod(s) Removed:
 - __VoiceHUD__ covered by LethalFixes.
