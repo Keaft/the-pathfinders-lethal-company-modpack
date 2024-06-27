@@ -2,9 +2,11 @@
 
 #### Mod(s) Updated:
 - __ButteryFixes__ to 1.4.1.
+- __Lategame_Upgrades__ to 3.8.1.
 - __MeleeFixes__ to 1.2.0.
 - __MrovLib__ to 0.0.10.
-- __Lategame_Upgrades__ to 3.8.1.
+- __OpenBodyCams__ to 2.2.1.
+- __ScarletDevilMansion__ to 1.3.17.
 
 #### Mod(s) Removed:
 - __VoiceHUD__ covered by LethalFixes.
