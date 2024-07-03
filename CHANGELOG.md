@@ -1,4 +1,4 @@
-## 24.6.5
+## 24.7.0
 
 #### Configuration(s):
 - Regenerated Lategame_Upgrades config with proper values.
