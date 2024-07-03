@@ -1,12 +1,20 @@
 ## 24.6.5
 
+#### Configuration(s):
+- Regenerated Lategame_Upgrades config with proper values.
+
 #### Mod(s) Updated:
-- __ButteryFixes__ to 1.4.1.
+- __EladsHud__ to 1.3.0.
+- __JetpackFixes__ to 1.2.0.
 - __Lategame_Upgrades__ to 3.8.1.
 - __MeleeFixes__ to 1.2.0.
-- __MrovLib__ to 0.0.10.
+- __MrovLib__ to 0.1.3.
 - __OpenBodyCams__ to 2.2.1.
-- __ScarletDevilMansion__ to 1.3.17.
+- __ScarletDevilMansion__ to 1.3.18.
+- __TerminalFormatter__ to 0.2.17.
+- __HotbarPlus__ to 1.7.1.
+- __LethalFixes__ to 1.1.5.
+- __PsychSanctum__ to 1.0.1.
 
 #### Mod(s) Removed:
 - __VoiceHUD__ covered by LethalFixes.
