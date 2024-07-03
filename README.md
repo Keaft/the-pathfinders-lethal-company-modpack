@@ -10,5 +10,7 @@
  
  I'm inept at versioning. The date doesn't have to precisely measure the scope of my updates. :D Versioning will be as follows: [year].[month].[update_number]
  
+ Huge thanks to Blitz for helping test the pack! 
+ 
 #### Known issue(s):
 - EXP going down. This occurs when you lose a value of scrap from your ship (keys, stop signs, shotguns, or any other scrap) greater than what you gain. This is a vanilla bug in which scrapCollectedInLevel is divided by totalScrapValueInLevel resulting in a negative value. Or so it seems :)
