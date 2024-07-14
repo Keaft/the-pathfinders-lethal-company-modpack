@@ -1,3 +1,8 @@
+## 24.7.1
+
+This is an initial pass through the mod list to make the pack compatible with V56. A more full changelog will come in the next version as I have time to test mod removals, additions, changes, as well as configuration regenerating and changes. The core experience of the pack should still be maintained in this cobbled together update! :D
+
+
 ## 24.7.0
 
 #### Configuration(s):
