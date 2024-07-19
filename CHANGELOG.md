@@ -1,7 +1,60 @@
+## 24.7.2
+
+#### Configuration(s):
+- Updated the Pathfinders lobby preset for new content.
+
+#### Mod(s) Updated:
+- __GeneralImprovements__ to 1.3.1.
+- __HotbarPlus__ to 1.7.4.
+- __MrovLib__ to 0.2.1.
+- __TooManyEmotes__ to 2.1.24.
+
+#### Mod(s) Added:
+- __BarberFixes__ 1.0.0.
+
+#### Mod(s) Reintroduced:
+- __AutoCompanyBuilding__ 1.2.1.
+- __CustomFunSuits__ 1.8.3.
+- __EquipmentCompany__ 1.3.0.
+- __GlowStickSuits__ 1.0.4.
+- __InsomniaxCosmetics__ 1.2.0.
+- __SillyCosmetics__ 1.8.0.
+- __PathfindingLagFix__ 1.2.1.
+- __Loadstone__ updated to 0.1.13.
+- __HideChat__ 1.0.0.
+- __FlashlightToggle__ 1.5.0.
+- __LethalFixes__ updated to 1.1.7.
+- __EnemySoundFixes__ updated to 1.5.2.
+
+
 ## 24.7.1
 
 This is an initial pass through the mod list to make the pack compatible with V56. A more full changelog will come in the next version as I have time to test mod removals, additions, changes, as well as configuration regenerating and changes. The core experience of the pack should still be maintained in this cobbled together update! :D
 
+#### Mod(s) Temporarily Removed:
+
+- __AutoCompanyBuilding__
+- __BetterEXP__
+- __BetterSprayPaint__
+- __ButteryFixes__
+- __CustomFunSuits__
+- __DiscountAlert__
+- __DissonanceLagFix__
+- __EnemySoundFixes__
+- __EquipmentCompany__
+- __FixRPCLag__
+- __FlashlightToggle__
+- __GlowStickSuits__
+- __HideChat__
+- __InsomniaxCosmetics__
+- __JetpackFixes__
+- __LethalFixes__
+- __LoadstoneNightly__
+- __MeleeFixes__
+- __MeteoMultiplier__
+- __MoreMaterials__
+- __PathfindingLagFix__
+- __SillyCosmetics__
 
 ## 24.7.0
 
