@@ -10,6 +10,10 @@
 - __SuitSaver__ 1.2.1.
 - __TooManyEmotes__ to 2.1.25.
 
+#### Mod(s) Reintroduced:
+- __BetterEXP__ updated to 2.1.1.
+- __BetterSprayPaint__ 2.0.4.
+
 #### Mod(s) Removed:
 - __HideChat__ as GeneralImprovements now covers this function.
 
