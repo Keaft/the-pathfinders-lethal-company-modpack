@@ -1,5 +1,11 @@
 ## 24.7.3
 
+The Company requires efficiency. These guidelines should help improve your ability to prepare for work faster.
+
+#### Mod(s) Added:
+- __LethalPerformance__ 0.1.2.
+- __BepInEx_Faster_Load_AssetBundles_Patcher__ 0.6.4.
+
 #### Mod(s) Updated:
 
 - __GeneralImprovements__ to 1.3.4.
