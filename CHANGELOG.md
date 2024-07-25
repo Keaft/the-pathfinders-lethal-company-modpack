@@ -1,6 +1,17 @@
 ## 24.7.3
 
+#### Mod(s) Updated:
 
+- __GeneralImprovements__ to 1.3.4.
+- __LethalCompanyVariables__ 2.4.1.
+- __LethalLevelLoader__ to 1.3.4.
+- __Loadstone__ to 0.1.14.
+- __MrovLib__ to 0.2.2.
+- __SuitSaver__ 1.2.1.
+- __TooManyEmotes__ to 2.1.25.
+
+#### Mod(s) Removed:
+- __HideChat__ as GeneralImprovements now covers this function.
 
 ## 24.7.2
 
